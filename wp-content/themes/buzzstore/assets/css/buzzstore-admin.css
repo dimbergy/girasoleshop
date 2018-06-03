@@ -1,0 +1,190 @@
+.screenshot img {
+    width: 100%;
+    border-radius: 10px;
+    padding: 5px 0px;
+}
+.remove-image {
+    cursor: pointer;
+}
+
+.buzzstore-multiplecat {
+    height: 200px;
+    overflow: auto;
+    border: 1px solid #ccc;
+    padding: 0px 10px;
+    margin-top: 5px;
+}
+
+#buzzstore-img-container ul li label {
+    display: inherit;
+    margin-left: 0px;
+}
+ #buzzstore-img-container .buzzstore-radio-img-img {
+     border: 3px solid #DEDEDE;
+     margin: 10px 4px 5px 0;
+     cursor: pointer;
+     border-radius: 3px;
+     -moz-border-radius: 3px;
+     -webkit-border-radius: 3px;
+     width:45%;
+ }
+ #buzzstore-img-container .buzzstore-radio-img-selected {
+     border: 3px solid #AAA;
+     border-radius: 3px;
+     -moz-border-radius: 3px;
+     -webkit-border-radius: 3px;
+ }
+ input[type=checkbox]:before {
+   content: '';
+     margin: -3px 0 0 -4px;
+ }
+ 
+/* Customizer Page Layout Settings */
+.buzzimage label{
+    position: relative;
+    margin: 0 3% 3% 0;
+    display: inline-block;
+    width: 46%;
+}
+.buzzimage input{
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.buzzimage img{
+    display: block;
+    border:2px solid #F6F6F6;
+}
+.buzzimage input:checked + img{
+    border:2px solid #CCC;
+}
+
+
+/**
+ * Enable/Disable options 
+*/
+#customize-control-buzzstore_top_header_display_options label,
+#customize-control-buzzstore_slider_section label,
+#customize-control-buzzstore_icon_block_section label,
+#customize-control-buzzstore_woocommerce_enable_disable_section label,
+#customize-control-buzzstore_normal_page_enable_disable_section label,
+#customize-control-buzzstore_post_archive_page_enable_disable_section label,
+#customize-control-buzzstore_footer_area_two_enable_disable_section label{
+    float: left;
+    padding: 10px 10px;
+}
+
+
+/**
+ * Customizer Icon Settings Area
+*/
+.customize-pane-parent .control-section .accordion-section-title:before{
+    font-family: dashicons;
+    content: "\f103";
+    font-size: 20px;
+    margin-right: 5px;
+    vertical-align: middle;
+}
+
+#accordion-panel-buzzstore_general_settings .accordion-section-title:before{
+    content: "\f111";
+}
+
+#accordion-panel-buzzstore_home_panel .accordion-section-title:before{
+    content: "\f102";
+}
+
+#accordion-panel-nav_menus .accordion-section-title:before{
+    content: "\f333";
+}
+
+#accordion-panel-widgets .accordion-section-title:before{
+    content: "\f116";
+}
+
+#accordion-panel-widgets .accordion-section-title:before{
+    content: "\f116";
+}
+
+#accordion-section-custom_css .accordion-section-title:before{
+    content: "\f499";
+}
+#accordion-section-buzzstore_main_banner_area .accordion-section-title:before{
+    content: "\f233";
+}
+
+/**
+ * Important link
+*/
+.pro-implink{
+  background: #0073aa;
+  padding: 8px;
+  color: #FFF !important;
+  text-align: center;
+  display: block;
+  margin-top: 5px;
+  line-height: 1.2;
+  box-shadow: none;
+  font-style: normal;
+  text-decoration: none;
+}
+.pro-implink:hover{
+  background: #000;
+}
+
+
+/**
+ * Customizer Upgreate pro
+*/
+.buzzstore-pro{
+    background-color: #e24545;
+    color: #FFF !important;
+    font-size: 14px;
+    padding: 8px 0;
+    line-height: 1;
+    display: block;
+    margin-top: 6px;
+    text-align: center;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.admin-pro-feature-list li{
+ 
+    border-bottom: 1px solid #f1f1f1;
+    margin: 0;
+    padding: 10px 0px;
+    line-height: 1;
+}
+.admin-pro-feature-list li:before{
+     content: "\f345";
+    font: 400 20px/1 dashicons;
+    display: inline-block;
+    font-size: 14px;
+    margin-right: 5px;
+    line-height: 1.5;
+ 
+ }
+.admin-pro-feature-list span{
+    display: inline-block;
+    width: 90%;
+    line-height: 1.5;
+    vertical-align: top;
+}
+.admin-pro-feature-list{
+    margin: 0 5px;
+}
+.buynow{
+    margin-top: 10px;
+    width: 100%;
+    text-align: center;
+}
+
+#widget-list [id*='_buzzstore_'] .widget-top, 
+#widget-list [id*='_buzzstore_'] h3 {
+    background: #0074a2;
+    color: #fff;
+}

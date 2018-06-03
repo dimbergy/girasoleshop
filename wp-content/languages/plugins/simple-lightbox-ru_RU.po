@@ -1,0 +1,257 @@
+# Translation of Plugins - Simple Lightbox - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Simple Lightbox - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-10-14 02:31:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Simple Lightbox - Development (trunk)\n"
+
+#: controller.php:369
+msgid "Feedback &amp; Support"
+msgstr "Обратная связь и поддержка"
+
+#. Author URI of the plugin/theme
+msgid "http://archetyped.com"
+msgstr "http://archetyped.com"
+
+#. Author of the plugin/theme
+msgid "Archetyped"
+msgstr "Archetyped"
+
+#. Description of the plugin/theme
+msgid "The highly customizable lightbox for WordPress"
+msgstr "Гибко настраиваемый лайтбокс для WordPress"
+
+#. Plugin URI of the plugin/theme
+msgid "http://archetyped.com/tools/simple-lightbox/"
+msgstr "http://archetyped.com/tools/simple-lightbox/"
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Lightbox"
+msgstr "Simple Lightbox"
+
+#: includes/class.themes.php:87
+msgid "Default (Dark)"
+msgstr "По умолчанию (тёмный)"
+
+#: includes/class.themes.php:76
+msgid "Default (Light)"
+msgstr "По умолчанию (светлый)"
+
+#: includes/class.themes.php:65
+msgid "Baseline"
+msgstr "Базовая линия"
+
+#: includes/class.themes.php:40
+msgid "Theme"
+msgstr "Тема"
+
+#: includes/class.options.php:222
+msgid "Default"
+msgstr "По умолчанию"
+
+#: includes/class.option.php:113
+msgid "Disabled"
+msgstr "Выключено"
+
+#: includes/class.option.php:113
+msgid "Enabled"
+msgstr "Включено"
+
+#: includes/class.fields.php:120
+msgid "Inline wrapper"
+msgstr "Внутристрочная обёртка"
+
+#: includes/class.fields.php:108
+msgid "Select tag"
+msgstr "Выберите тег"
+
+#: includes/class.fields.php:102
+msgid "Hidden Field"
+msgstr "Скрытое поле"
+
+#: includes/class.fields.php:71
+msgid "Text Box"
+msgstr "Текстовое поле"
+
+#: includes/class.fields.php:63
+msgid "Default Input Element"
+msgstr "Элемент ввода по умолчанию"
+
+#: includes/class.fields.php:55
+msgid "Default Element (Closed Tag)"
+msgstr "Элемент по умолчанию (закрывающий тег)"
+
+#: includes/class.fields.php:43
+msgid "Default Element"
+msgstr "Элемент по умолчанию"
+
+#: includes/class.admin.php:646 includes/class.admin_action.php:45
+#: includes/class.admin_page.php:146
+msgid "Access Denied"
+msgstr "Доступ запрещён"
+
+#: includes/class.admin.php:645
+msgid "<strong class=\"%1$s\">Notice:</strong> This update is a <strong class=\"%1$s\">Beta version</strong>. It is highly recommended that you test the update on a test server before updating the plugin on a production server."
+msgstr "<strong class=\"%1$s\">Замечание:</strong> Это обновление является <strong class=\"%1$s\">бета-версией</strong>. Настоятельно рекомендуем проверить новую версию на тестовом сервере, прежде чем обновлять плагин на рабочем сервере."
+
+#: includes/class.admin.php:644
+msgid "The settings have been reset"
+msgstr "Настройки были сброшены"
+
+#: controller.php:359
+msgid "Get Support &amp; Provide Feedback"
+msgstr "Получить помощь и оставить отзыв"
+
+#: controller.php:355
+msgid "<p>Simple Lightbox thrives on your feedback!</p><p>Click the button below to <strong>get help</strong>, <strong>request a feature</strong>, or <strong>provide some feedback</strong>!</p>"
+msgstr "<p>Simple Lightbox развивается благодаря вашим отзывам!</p><p>Нажмите на кнопку ниже, чтобы <strong>получить помощь</strong>, <strong>предложить улучшение</strong> или <strong>оставить свой отзыв</strong>.</p>"
+
+#: controller.php:345
+msgid "Settings were not reset"
+msgstr "Настройки не были сброшены"
+
+#: controller.php:344
+msgid "Settings have been reset"
+msgstr "Настройки были сброшены"
+
+#: controller.php:343
+msgid "Are you sure you want to reset settings?"
+msgstr "Вы уверены, что хотите сбросить настройки?"
+
+#: controller.php:342
+msgid "Reset"
+msgstr "Сброс"
+
+#: controller.php:337
+msgid "Feedback & Support"
+msgstr "Обратная связь и поддержка"
+
+#: controller.php:328
+msgid "Settings"
+msgstr "Настройки"
+
+#: controller.php:327
+msgid "Lightbox Settings"
+msgstr "Настройки лайтбокса"
+
+#: controller.php:326
+msgid "Lightbox"
+msgstr "Лайтбокс"
+
+#: controller.php:276
+msgid "Slideshow status format"
+msgstr "Формат статуса показа слайдов"
+
+#: controller.php:275
+msgid "Stop Slideshow button"
+msgstr "Кнопка «Остановить показ слайдов»"
+
+#: controller.php:274
+msgid "Start Slideshow button"
+msgstr "Кнопка «Начать показ слайдов»"
+
+#: controller.php:273
+msgid "Previous Item button"
+msgstr "Кнопка «Предыдущий элемент»"
+
+#: controller.php:272
+msgid "Next Item button"
+msgstr "Кнопка «Следующий элемент»"
+
+#: controller.php:271
+msgid "Close button"
+msgstr "Кнопка «Закрыть»"
+
+#: controller.php:270
+msgid "Loading indicator"
+msgstr "Индикатор загрузки"
+
+#: controller.php:269
+msgid "Enable default title"
+msgstr "Включить заголовок по умолчанию"
+
+#: controller.php:268
+msgid "Overlay Opacity (0 - 1)"
+msgstr "Прозрачность фона (0—1)"
+
+#: controller.php:267
+msgid "Loop through items"
+msgstr "Повторять элементы по кругу"
+
+#: controller.php:266
+msgid "Slide Duration (Seconds)"
+msgstr "Время на один слайд (в секундах)"
+
+#: controller.php:265
+msgid "Start Slideshow Automatically"
+msgstr "Запускать показ слайдов автоматически"
+
+#: controller.php:264
+msgid "Enable animations"
+msgstr "Включить анимацию"
+
+#: controller.php:263
+msgid "Resize lightbox to fit in window"
+msgstr "Подогнать размер лайтбокса под размер окна"
+
+#: controller.php:261
+msgid "Group widget items separately"
+msgstr "Группировать элементы виджетов отдельно"
+
+#: controller.php:260
+msgid "Group gallery items separately"
+msgstr "Группировать элементы галереи отдельно"
+
+#: controller.php:259
+msgid "Group items by Post (e.g. on pages with multiple posts)"
+msgstr "Группировать элементы по записям (например, на страницах с несколькими записями)"
+
+#: controller.php:258
+msgid "Group items (for displaying as a slideshow)"
+msgstr "Группировать элементы (для показа слайдшоу)"
+
+#: controller.php:256
+msgid "Enable for Widgets"
+msgstr "Включить для виджетов"
+
+#: controller.php:255
+msgid "Enable on Archive Pages (tags, categories, etc.)"
+msgstr "Включить на архивных страницах (метки, рубрики и т.п.)"
+
+#: controller.php:254
+msgid "Enable on Pages"
+msgstr "Включить на страницах"
+
+#: controller.php:253
+msgid "Enable on Single Posts"
+msgstr "Включить на одиночных записях"
+
+#: controller.php:252
+msgid "Enable on Home page"
+msgstr "Включить на домашней странице"
+
+#: controller.php:251
+msgid "Enable Lightbox Functionality"
+msgstr "Включить функциональность лайтбокса"
+
+#: controller.php:248
+msgid "Labels"
+msgstr "Метки"
+
+#: controller.php:247
+msgid "UI"
+msgstr "Интерфейс"
+
+#: controller.php:246
+msgid "Grouping"
+msgstr "Группировка"
+
+#: controller.php:245
+msgid "Activation"
+msgstr "Активация"

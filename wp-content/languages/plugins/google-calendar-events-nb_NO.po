@@ -1,0 +1,1524 @@
+# Translation of Stable (latest release) in Norwegian (Bokmål)
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-04 09:55:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: includes/admin/metaboxes/settings.php:567
+msgid "<strong>Warning:</strong> Using this option can return unexpected results if you have specified <a href=\"%s\" target=\"_blank\">event level</a> timezones."
+msgstr "<strong>Advarsel:</strong> Å benytte dette valget kan gi uventede resultater dersom du har spesifisert tidssoner på <a href=\"%s\" target=\"_blank\">arrangementsnivå</a>"
+
+#: includes/admin/metaboxes/settings.php:296
+msgid "Weeks"
+msgstr "Uker"
+
+#: includes/admin/metaboxes/settings.php:307
+msgid "Months"
+msgstr "måneder"
+
+#: includes/admin/metaboxes/settings.php:318
+msgid "Years"
+msgstr "År"
+
+#: includes/admin/metaboxes/settings.php:282
+msgid "Days"
+msgstr "Dager"
+
+#: includes/admin/pages/advanced.php:49
+msgid "Manage front end assets that handle the calendars appearance."
+msgstr "Håndter frontend verdier som kan håndtere kalenderutseende"
+
+#: includes/admin/pages/advanced.php:76
+msgid "Disable CSS"
+msgstr "Deaktiver CSS"
+
+#: includes/calendars/admin/default-calendar-admin.php:293
+msgid "Yes, display on all days of event"
+msgstr "Ja, vis på arrangementets alle dager"
+
+#: includes/calendars/admin/default-calendar-admin.php:294
+msgid "No, display only on first day of event"
+msgstr "Nei, vis kun på arrangementets første dag"
+
+#: includes/calendars/admin/default-calendar-admin.php:295
+msgid "No, display on all days of event up to current day (list view only)"
+msgstr "Nei, vis på arrangementets alle dager frem til gjeldende dag (kun listevisning)"
+
+#: includes/abstracts/calendar.php:792
+msgid "Powered by <a href=\"%s\" target=\"_blank\">Simple Calendar</a>"
+msgstr "Drevet av <a href=\"%s\" target=\"_blank\">Simple Calendar</a>"
+
+#: includes/admin/metaboxes/settings.php:485
+msgid "Event Formatting"
+msgstr "Arrangementsformatering"
+
+#: includes/admin/metaboxes/settings.php:495
+msgid "How to preserve line breaks and paragraphs in the event template builder."
+msgstr "Hvordan å bevare linjeskift og avsnitt i arrangementsmalbyggeren."
+
+#: includes/admin/metaboxes/settings.php:499
+msgid "Preserve line breaks, auto paragraphs (default)"
+msgstr "Bevar linjeskift, autoavsnitt (standard)"
+
+#: includes/admin/metaboxes/settings.php:500
+msgid "No line breaks, auto paragraphs"
+msgstr "Ingen linjeskiftm autoavsnitt"
+
+#: includes/admin/metaboxes/settings.php:501
+msgid "No line breaks, no auto paragraphs"
+msgstr "Ingen linjeskift, ingen autoavsnitt"
+
+#: includes/admin/pages/advanced.php:48
+msgid "Styles"
+msgstr "Stiler"
+
+#: includes/events/event-builder.php:701
+msgctxt "human date event builder code modifier"
+msgid "from now"
+msgstr "fra nå"
+
+#: includes/events/event-builder.php:699
+msgctxt "human date event builder code modifier"
+msgid "ago"
+msgstr "siden"
+
+#: includes/feeds/admin/google-admin.php:87
+msgid "<strong>Note:</strong> Calendars configured to use the <strong><a href=\"%s\" target=\"_blank\">Google Calendar Pro add-on</a></strong> use a different method of authorization."
+msgstr "<strong>Merk:</strong> Kalendere konfigurert for å benytte <strong><a href=\"%s\" target=\"_blank\">Google Calendar Pro-utvidelsen</a></strong> benytter en annen metode for autorisering."
+
+#: includes/post-types.php:182
+msgid "Search Calendar"
+msgstr "Søk i kalender"
+
+#: includes/post-types.php:183
+msgid "Calendars not found"
+msgstr "Kalendere ikke funnet"
+
+#: includes/post-types.php:184
+msgid "Calendars not found in Trash"
+msgstr "Kalendere ikke funnet i søppel"
+
+#. #-#-#-#-#  tmp-google-calendar-events.pot (Simple Calendar 3.0.16) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/widgets/calendar.php:49
+msgid "Simple Calendar"
+msgstr "Simple Calendar"
+
+#: includes/widgets/calendar.php:51
+msgid "Display a calendar of events from one of your calendar feeds."
+msgstr "Vis en kalender med arrangement fra en av kalender-feeds'ene dine."
+
+#: includes/widgets/calendar.php:142
+msgid "Calendar:"
+msgstr "Kalender:"
+
+#: includes/widgets/calendar.php:148
+msgid "No calendars found."
+msgstr "Ingen kalendere funnet."
+
+#. #-#-#-#-#  tmp-google-calendar-events.pot (Simple Calendar 3.0.16) 
+#. #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-google-calendar-events.pot (Simple Calendar 3.0.16) 
+#. #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://simplecalendar.io"
+msgstr "https://simplecalendar.io"
+
+#. Description of the plugin/theme
+msgid "Add Google Calendar events to your WordPress site in minutes. Beautiful calendar displays. Fully responsive."
+msgstr "Legg til arrangement fra Google-kalender til WordPress-siten din i løpet av minutter. Vakre kalendervisninger. Fullt responsiv."
+
+#: includes/post-types.php:170
+msgctxt "Post Type General Name"
+msgid "Calendars"
+msgstr "Kalendere"
+
+#: includes/post-types.php:171
+msgctxt "Post Type Singular Name"
+msgid "Calendar"
+msgstr "Kalender"
+
+#: includes/post-types.php:174
+msgid "Parent Calendar:"
+msgstr "Foreldrekalender:"
+
+#: includes/post-types.php:175
+msgid "All Calendars"
+msgstr "Alle kalendere"
+
+#: includes/post-types.php:176
+msgid "Add New Calendar"
+msgstr "Legg til ny kalender"
+
+#: includes/post-types.php:178
+msgid "New Calendar"
+msgstr "Ny kalender"
+
+#: includes/calendars/views/default-calendar-grid.php:181
+#: includes/calendars/views/default-calendar-list.php:196
+#: includes/post-types.php:179
+msgid "Edit Calendar"
+msgstr "Rediger kalender"
+
+#: includes/post-types.php:180
+msgid "Update Calendar"
+msgstr "Oppdater kalender"
+
+#: includes/post-types.php:181
+msgid "View Calendar"
+msgstr "Vis kalender"
+
+#: includes/post-types.php:134
+msgid "Separate categories with commas"
+msgstr "Skill kategorier med kommategn"
+
+#: includes/post-types.php:135
+msgid "Add or remove categories"
+msgstr "Legg til eller fjern kategorier"
+
+#: includes/post-types.php:137
+msgid "Popular Categories"
+msgstr "Populære kategorier"
+
+#: includes/post-types.php:138
+msgid "Search Categories"
+msgstr "Søk kategorier"
+
+#: includes/post-types.php:133
+msgid "View Category"
+msgstr "Se kategori"
+
+#: includes/post-types.php:132
+msgid "Update Category"
+msgstr "Oppdater kategori"
+
+#: includes/post-types.php:129
+msgid "New Category"
+msgstr "Ny kategori"
+
+#: includes/post-types.php:130
+msgid "Add New Category"
+msgstr "Legg til ny kategori"
+
+#: includes/post-types.php:131
+msgid "Edit Category"
+msgstr "Rediger kategori"
+
+#: includes/post-types.php:128
+msgid "Parent Category:"
+msgstr "Foreldrekategori:"
+
+#: includes/post-types.php:127
+msgid "Parent Category"
+msgstr "Foreldrekategori"
+
+#: includes/post-types.php:126
+msgid "All Categories"
+msgstr "Alle kategorier"
+
+#: includes/post-types.php:87
+msgid "Calendar Types"
+msgstr "Kalendertyper"
+
+#: includes/post-types.php:90
+msgid "All Calendar Types"
+msgstr "Alle kalendertyper"
+
+#: includes/post-types.php:91
+msgid "Parent Calendar Type"
+msgstr "Type foreldrekategori"
+
+#: includes/post-types.php:92
+msgid "Parent Calendar Type:"
+msgstr "Type foreldrekategori:"
+
+#: includes/post-types.php:93
+msgid "New Calendar Type"
+msgstr "Ny kalendertype"
+
+#: includes/post-types.php:94
+msgid "Add New Calendar Type"
+msgstr "Legg til ny kalendertype"
+
+#: includes/post-types.php:95
+msgid "Edit Calendar Type"
+msgstr "Rediger kalendertype"
+
+#: includes/post-types.php:96
+msgid "Update Calendar Type"
+msgstr "Oppdater kalendertype"
+
+#: includes/post-types.php:97
+msgid "View Calendar Type"
+msgstr "Vis kalendertype"
+
+#: includes/post-types.php:98
+msgid "Separate calendar types with commas"
+msgstr "Skill kalendertyper med kommategn"
+
+#: includes/post-types.php:99
+msgid "Add or remove calendar types"
+msgstr "Legg til eller fjern kalendertyper"
+
+#: includes/post-types.php:101
+msgid "Popular calendar types"
+msgstr "Populære kalendertyper"
+
+#: includes/post-types.php:102
+msgid "Search Calendar Types"
+msgstr "Søk i kalendertyper"
+
+#: includes/post-types.php:123 includes/post-types.php:125
+msgid "Categories"
+msgstr "Kategorier"
+
+#: includes/functions/shared.php:283
+msgid "See more details"
+msgstr "Se flere detaljer"
+
+#: includes/post-types.php:51
+msgid "Events Source Types"
+msgstr "Arrangementskildetyper"
+
+#: includes/post-types.php:52 includes/post-types.php:53
+msgid "Events Source Type"
+msgstr "Arrangementskildetype"
+
+#: includes/post-types.php:54
+msgid "All Events Source Types"
+msgstr "Alle arrangementskildetyper"
+
+#: includes/post-types.php:55
+msgid "Parent Events Source Type"
+msgstr "Foreldre arrangementskildetype"
+
+#: includes/post-types.php:56
+msgid "Parent Events Source Type:"
+msgstr "Foreldre arrangementskildetype:"
+
+#: includes/post-types.php:57
+msgid "New Events Source Type"
+msgstr "Ny arrangementskildetype"
+
+#: includes/post-types.php:58
+msgid "Add New Events Source Type"
+msgstr "Legg til ny arrangementskildetype"
+
+#: includes/post-types.php:59
+msgid "Edit Events Source Type"
+msgstr "Rediger arrangementskildetype"
+
+#: includes/post-types.php:60
+msgid "Update Events Source Type"
+msgstr "Oppdater arrangementskildetype"
+
+#: includes/post-types.php:61
+msgid "View Events Source Type"
+msgstr "Vis arrangementskildetype"
+
+#: includes/post-types.php:62
+msgid "Separate events source types with commas"
+msgstr "Skill arrangementskildetyper med kommategn"
+
+#: includes/post-types.php:63
+msgid "Add or remove events source types"
+msgstr "Legg til eller fjern arrangementskildetyper"
+
+#: includes/post-types.php:64 includes/post-types.php:100
+#: includes/post-types.php:136
+msgid "Choose from the most used"
+msgstr "Velg fra de mest brukte"
+
+#: includes/post-types.php:65
+msgid "Popular events source types"
+msgstr "Populære arrangementskildetyper"
+
+#: includes/post-types.php:66
+msgid "Search Events Source Types"
+msgstr "Søk i arrangementskildetyper"
+
+#: includes/post-types.php:67 includes/post-types.php:103
+#: includes/post-types.php:139
+msgid "Not Found"
+msgstr "Ikke funnet"
+
+#: includes/functions/admin.php:321
+msgid "Send me the coupon"
+msgstr "Send meg kupongen"
+
+#: includes/functions/admin.php:325
+msgid "Just take me to GCal Pro"
+msgstr "Bare ta meg til GCAL Pro"
+
+#: includes/functions/admin.php:329
+msgid "Thank you!"
+msgstr "Takk!"
+
+#: includes/feeds/admin/grouped-calendars-admin.php:155
+msgid "There are no calendar categories yet."
+msgstr "Det er ennå ingen kalenderkategorier"
+
+#: includes/feeds/google.php:357
+msgid "Only you can see this notice."
+msgstr "Bare du kan se denne merknaden."
+
+#: includes/feeds/grouped-calendars.php:46
+msgid "Grouped Calendar"
+msgstr "Gruppert kalender"
+
+#: includes/functions/admin.php:243
+msgid "Press %s to copy."
+msgstr "Trykk %s for å kopiere"
+
+#: includes/functions/admin.php:300
+msgid "Enter your name and email and we'll send you a coupon code for 20% off our Google Calendar Pro add-on."
+msgstr "Skriv inn navnet og epostadresse og vi skal sende deg en kupongkode med 20 % rabatt på utvidelsen vår, Google Calendar Pro."
+
+#: includes/functions/admin.php:304
+msgid "Your Email"
+msgstr "Eposten din"
+
+#: includes/functions/admin.php:312
+msgid "First Name"
+msgstr "Fornavn"
+
+#: includes/feeds/admin/grouped-calendars-admin.php:103
+msgid "Choose from which calendar feeds you want to get events from. Choose them individually or select all those belonging to calendar feed categories."
+msgstr "Velg fra hvilke kalender-feeds du ønsker å hente arrangement. Velg dem individuelt eller velg alle som tilhører kalender-feedkategorier."
+
+#: includes/feeds/admin/grouped-calendars-admin.php:121
+#: includes/feeds/admin/grouped-calendars-admin.php:147
+msgid "No results found."
+msgstr "Ingen resultater er funnet."
+
+#: includes/calendars/views/default-calendar-grid.php:189
+msgid "Previous Month"
+msgstr "Forrige måned"
+
+#: includes/calendars/views/default-calendar-grid.php:220
+msgid "Next Month"
+msgstr "Neste måned"
+
+#: includes/calendars/views/default-calendar-grid.php:429
+msgid "Event"
+msgstr "Arrangement"
+
+#: includes/calendars/views/default-calendar-list.php:617
+msgid "Nothing to show."
+msgstr "Ingenting å vise."
+
+#: includes/calendars/views/default-calendar-list.php:625
+msgid "Nothing from %1$s to %2$s."
+msgstr "Ingenting fra %1$s til %2$s."
+
+#: includes/events/event-builder.php:242
+msgid "No end time"
+msgstr "Ingen sluttid"
+
+#. translators: One more person attending the event.
+#: includes/events/event-builder.php:834
+msgid "1 more attendee"
+msgid_plural "%s more attendees"
+msgstr[0] "1 deltaker til"
+msgstr[1] "%s flere deltakere"
+
+#. translators: One or more persons attending the event whose name is unknown.
+#: includes/events/event-builder.php:837
+msgid "1 anonymous attendee"
+msgid_plural "%s anonymous attendees"
+msgstr[0] "1 anonym deltaker"
+msgstr[1] "%s anonyme deltakere"
+
+#: includes/events/event-builder.php:842
+msgctxt "No one yet rsvp to attend the event."
+msgid "No one yet"
+msgstr "Ingen ennå"
+
+#. translators: Someone replied with 'yes' to a rsvp request.
+#: includes/events/event-builder.php:863
+msgid "Attending"
+msgstr "Deltar"
+
+#. translators: Someone replied with 'no' to a rsvp request.
+#: includes/events/event-builder.php:866
+msgid "Not attending"
+msgstr "Deltar ikke"
+
+#. translators: Someone replied with 'maybe' to a rsvp request.
+#: includes/events/event-builder.php:869
+msgid "Maybe attending"
+msgstr "Deltar kanskje"
+
+#. translators: Someone did not send yet a rsvp confirmation to join an event.
+#: includes/events/event-builder.php:872
+msgid "Response pending"
+msgstr "Svar venter"
+
+#: includes/feeds/admin/google-admin.php:84
+msgid "To read events from your public Google Calendars you'll need create a Google API key and save it here."
+msgstr "For å lese arrangement fra dine offentlige Google-kalendere, trenger du å lage en Google API-nøkkel og lagre den her."
+
+#: includes/feeds/admin/google-admin.php:130
+msgid "<a href=\"%s\" target=\"_blank\">Step-by-step instructions</a> "
+msgstr "<a href=\"%s\" target=\"_blank\">Instruksjoner steg-for-steg</a> "
+
+#: includes/feeds/admin/google-admin.php:134
+msgid "<a href=\"%s\" target=\"_blank\">Google Developers Console</a> "
+msgstr "<a href=\"%s\" target=\"_blank\">Konsoll for Google-utviklere</a> "
+
+#: includes/feeds/admin/google-admin.php:178
+msgid "Calendar ID"
+msgstr "Kalender-ID"
+
+#: includes/feeds/admin/google-admin.php:179
+msgid "Visit your Google Calendar account, copy your public calendar ID, then paste it here."
+msgstr "Besøk kontoen din for Google-kalender, kopier den offentlige kalender-IDen din, og lim den så inn her."
+
+#: includes/feeds/admin/google-admin.php:180
+msgid "Enter a valid Google Calendar ID from a public calendar"
+msgstr "Skriv inn en gyldig Google-kalender-ID fra en offentlig kalender"
+
+#: includes/feeds/admin/google-admin.php:190
+msgid "Type in keywords if you only want display events that match these terms. You can use basic boolean search operators too."
+msgstr "Skriv inn nøkkelord dersom du bare ønsker å vise arrangement som matcher disse termene. Du kan også benytte grunnleggende boolske søkeoperatører."
+
+#: includes/feeds/admin/google-admin.php:191
+msgid "Filter events to display by search terms..."
+msgstr "Filtrer arrangement å vise etter søketermer..."
+
+#: includes/feeds/admin/google-admin.php:197
+msgid "Recurring events"
+msgstr "Gjentakende arrangement"
+
+#: includes/feeds/admin/google-admin.php:198
+msgid "Events that are programmed to repeat themselves periodically."
+msgstr "Arrangement som er progremmert til å gjenta seg periodevis."
+
+#: includes/feeds/admin/google-admin.php:200
+msgid "Show all"
+msgstr "Vis alle"
+
+#: includes/feeds/admin/google-admin.php:201
+msgid "Only show first occurrence"
+msgstr "Vis kun første hendelse"
+
+#: includes/feeds/admin/google-admin.php:209
+msgid "Maximum Events"
+msgstr "Maksimum arrangement"
+
+#: includes/feeds/admin/google-admin.php:210
+msgid "Google Calendar only allows to query for a maximum amount of 2500 events from a calendar each time."
+msgstr "Google-kalender tillater kun å spørre for et maksimum antall på 2500 arrangement fra en kalender hver gang."
+
+#: includes/feeds/admin/google-admin.php:227
+msgid "Google Calendar settings"
+msgstr "Google-kalenderinnstillinger"
+
+#: includes/feeds/admin/google-admin.php:261
+msgid "Step 1: Set the Google Calendar you want to use as <strong>\"public.\"</strong> <a href=\"%1s\" target=\"_blank\">Detailed instructions</a>"
+msgstr "Steg 1: Set Google-kalenderen du ønsker å benytte som <strong>\"public.\"</strong> <a href=\"%1s\" target=\"_blank\">Detaljerte instruksjoner</a>"
+
+#: includes/feeds/admin/google-admin.php:262
+msgid "Step 2: Copy and paste your Google Calendar ID here. <a href=\"%2s\" target=\"_blank\">Detailed instructions</a>"
+msgstr "Steg 2: Kopier og lim Google-kalenderen-ID'en din her. <a href=\"%2s\" target=\"_blank\">Detaljerte instruksjoner</a>"
+
+#: includes/feeds/admin/google-admin.php:278
+msgid "Your Google Calendar events will not show up until you <a href=\"%s\">create and save a Google API key</a>."
+msgstr "Arrangementene dine fra Google-kalender will ikke vises før du har <a href=\"%s\">opprettet og lagret en Google API-nøkkel</a>."
+
+#: includes/feeds/admin/google-admin.php:309 includes/feeds/google.php:354
+msgid "While trying to retrieve events, Google returned an error:"
+msgstr "Under forsøk på å henter arrangement, Google returnerte en feil:"
+
+#: includes/feeds/admin/google-admin.php:311 includes/feeds/google.php:356
+msgid "Please ensure that both your Google Calendar ID and API Key are valid and that the Google Calendar you want to display is public."
+msgstr "Vennligst sikre at både Google-kalenderen og API-nøkkelen din er gyldige og at Google-kalenderen du vil vise er offentlig."
+
+#: includes/feeds/admin/grouped-calendars-admin.php:84
+msgid "Grouped Calendar settings"
+msgstr "Innstillinger for gruppert kalender"
+
+#: includes/feeds/admin/grouped-calendars-admin.php:88
+msgid "Get calendars from"
+msgstr "Hent kalendere fra"
+
+#: includes/feeds/admin/grouped-calendars-admin.php:100
+msgid "Manual selection"
+msgstr "Manuelt valg"
+
+#: includes/feeds/admin/grouped-calendars-admin.php:101
+#: includes/post-types.php:124
+msgid "Category"
+msgstr "Kategori"
+
+#: includes/calendars/admin/default-calendar-admin.php:356
+msgid "Days with events"
+msgstr "Dager med arrangement"
+
+#: includes/calendars/default-calendar.php:111
+msgid "Default"
+msgstr "Standard"
+
+#: includes/calendars/admin/default-calendar-admin.php:329
+msgid "Dark"
+msgstr "Mørkt"
+
+#: includes/calendars/admin/default-calendar-admin.php:113
+msgid "Trim event titles"
+msgstr "Trim arrangementsoverskrifter"
+
+#: includes/calendars/admin/default-calendar-admin.php:137
+msgid "Shorten event titles in calendar grid to a specified length in characters."
+msgstr "Kort ned arrangementsoverskrifter i kalendergrid til en spesifisert lengde i bokstaver."
+
+#: includes/calendars/admin/default-calendar-admin.php:151
+msgid "Span"
+msgstr "Omfang"
+
+#: includes/calendars/admin/default-calendar-admin.php:178
+msgid "Range of events to show on each calendar page."
+msgstr "Utvalg av arrangement som skal vises på hver kalenderside."
+
+#: includes/calendars/admin/default-calendar-admin.php:184
+msgid "Month(s)"
+msgstr "Måned(er)"
+
+#: includes/calendars/admin/default-calendar-admin.php:187
+msgid "Event(s)"
+msgstr "Arrangement"
+
+#: includes/calendars/admin/default-calendar-admin.php:195
+msgid "Hide header"
+msgstr "Skjul header"
+
+#: includes/calendars/admin/default-calendar-admin.php:205
+msgid "You can use this to hide the month header for this calendar."
+msgstr "Du kan benytte dette for å skjule månedsheaderen for denne kalenderen."
+
+#: includes/calendars/admin/default-calendar-admin.php:213
+msgid "Compact list"
+msgstr "Kompakt liste"
+
+#: includes/calendars/admin/default-calendar-admin.php:223
+msgid "Make an events list more compact by grouping together events from different days in a single list."
+msgstr "Gjør en arrangementsliste mer kompakt ved å gruppere arrangement fra forskjellige dager in en enkel liste."
+
+#: includes/calendars/admin/default-calendar-admin.php:231
+msgid "Limit visible events"
+msgstr "Begrens synlige arrangement"
+
+#: includes/calendars/admin/default-calendar-admin.php:258
+msgid "Limit the number of initial visible events on each day to a set maximum."
+msgstr "Begrens antall først synlige arrangement på hver dag til et satt maksimum"
+
+#: includes/calendars/admin/default-calendar-admin.php:272
+msgid "Expand multi-day events"
+msgstr "Ekspander arrangement over flere dager"
+
+#: includes/calendars/admin/default-calendar-admin.php:314
+msgid "Theme"
+msgstr "Tema"
+
+#: includes/calendars/admin/default-calendar-admin.php:326
+msgid "Choose a calendar theme to match your site theme."
+msgstr "Velg et kalendertema som matcher temaet på sidene dine."
+
+#: includes/calendars/admin/default-calendar-admin.php:328
+msgid "Light"
+msgstr "Lyst"
+
+#: includes/admin/welcome.php:201
+msgid "Translators"
+msgstr "Oversettere"
+
+#: includes/admin/welcome.php:222
+msgid "Modern calendar displays with easily updateable event text and color options."
+msgstr "Moderne kalendervisninger med enkel oppdaterbar arrangementstekst og fargevalg."
+
+#: includes/admin/welcome.php:225
+msgid "Mobile responsive and widget ready."
+msgstr "Mobil responsiv og klar for widgets."
+
+#: includes/admin/welcome.php:229
+msgid "Simpler, more intuitive calendar settings."
+msgstr "Enklere, mer intuitive kalenderinnstillinger."
+
+#: includes/admin/welcome.php:232
+msgid "Extendible with add-ons like <a href=\"%s\" target=\"_blank\">Google Calendar Pro</a>."
+msgstr "Utvidbar med tillegg som <a href=\"%s\" target=\"_blank\">Google Calendar Pro</a>."
+
+#: includes/admin/welcome.php:260
+msgid "Simple Calendar is created by a worldwide team of developers. If you'd like to contribute please visit our <a href='%s' target='_blank'>GitHub repo</a>."
+msgstr "Simple Calndar er skapt av et verdensomspennende team av utviklere, Dersom du ønsker å bidra, vennligst besøk vår <a href='%s' target='_blank'>GitHub repo</a>."
+
+#: includes/admin/welcome.php:285
+msgid "Simple Calendar has been kindly translated into several other languages by contributors from all over the world."
+msgstr "Simple Calendar har blitt oversatt til flere andre språk av bidragsutere fra hele verden."
+
+#: includes/admin/welcome.php:288
+msgid "Click here to help translate"
+msgstr "Klikk her for å hjelpe til med å oversette"
+
+#: includes/admin/welcome.php:335
+msgid "View %s"
+msgstr "Vis %s"
+
+#: includes/calendars/admin/default-calendar-admin.php:84
+msgid "Default calendar"
+msgstr "Standardkalender"
+
+#: includes/calendars/admin/default-calendar-admin.php:89
+msgid "Event bubbles"
+msgstr "Arrangementsbobler"
+
+#: includes/calendars/admin/default-calendar-admin.php:100
+msgid "Open event bubbles in calendar grid by clicking or hovering on event titles. On mobile devices it will always default to tapping."
+msgstr "Åpne arrangementsbobler i kalendergrid ved å klikke eller sveve på arrangementstitler. På mobile enheter vil standard alltid være å trykke."
+
+#: includes/calendars/admin/default-calendar-admin.php:104
+msgid "Click"
+msgstr "Klikk"
+
+#: includes/calendars/admin/default-calendar-admin.php:105
+msgid "Hover"
+msgstr "Sveve"
+
+#. translators: %s prints the current version of the plugin.
+#: includes/admin/welcome.php:177
+msgid "Simple Calendar %s has many new display options and is much easier to configure. We think you'll really enjoy using it."
+msgstr "Simple Calendar %s har mange nye visningsvalg og er mye enklere å konfigurere. Vi tror du virkelig vil like å bruke den."
+
+#: includes/admin/welcome.php:191
+msgid "What's New"
+msgstr "Hva er nytt?"
+
+#: includes/admin/welcome.php:196
+msgid "Credits"
+msgstr "Kreditter"
+
+#: includes/admin/welcome.php:52
+msgid "About Simple Calendar"
+msgstr "Om Simple Calendar"
+
+#: includes/admin/welcome.php:53
+msgid "Welcome to Simple Calendar"
+msgstr "Velkommen til Simple Calendar"
+
+#. translators: %s prints the current version of the plugin.
+#: includes/admin/welcome.php:160
+msgid "Welcome to Simple Calendar %s"
+msgstr "Velkommen til Simple Calendar %s"
+
+#: includes/admin/welcome.php:169
+msgid "Thanks for updating to the latest version!"
+msgstr "Takk for at du oppdaterte til seneste versjon!"
+
+#: includes/admin/welcome.php:171
+msgid "Thanks for installing!"
+msgstr "Takk for at du installerer!"
+
+#: includes/admin/post-types.php:346
+msgid "Please add and configure new calendar first."
+msgstr "Vennligst legg til og konfigurer en ny kalender først."
+
+#: includes/admin/updater.php:210
+msgid "There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr "Det er en ny versjon av %1$s tilgjengelig. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">Se detaljene for versjon %3$s</a>."
+
+#: includes/admin/updater.php:217
+msgid "There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s\">update now</a>."
+msgstr "Det er en ny versjon av %1$s tilgjengelig. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">Se detaljene for versjon %3$s</a> eller <a href=\"%4$s\">oppdater nå</a>."
+
+#: includes/admin/updater.php:359
+msgid "You do not have permission to install plugin updates"
+msgstr "Du har ikke tilgang til å installere oppdateringer av utvidelser"
+
+#: includes/admin/updater.php:359
+msgid "Error"
+msgstr "Feil"
+
+#: includes/admin/post-types.php:143
+msgid "Clone"
+msgstr "Klone"
+
+#: includes/admin/post-types.php:185 includes/admin/post-types.php:276
+msgid "Clear cache"
+msgstr "Tøm cache"
+
+#: includes/admin/post-types.php:190
+msgid "Cache cleared."
+msgstr "Cache tømt."
+
+#: includes/admin/post-types.php:227
+msgid "Copy"
+msgstr "Kopi"
+
+#: includes/admin/pages/system-status.php:515
+msgid "Platform:"
+msgstr "Platform:"
+
+#: includes/admin/pages/system-status.php:523
+msgid "IP Address"
+msgstr "IP adresse"
+
+#: includes/admin/pages/system-status.php:528
+msgid "Browser"
+msgstr "Nettleser"
+
+#: includes/admin/post-types.php:69
+msgid "Events Source"
+msgstr "Kilde for arrangementer"
+
+#: includes/admin/post-types.php:70 includes/post-types.php:88
+#: includes/post-types.php:89
+msgid "Calendar Type"
+msgstr "Kalendertype"
+
+#: includes/admin/post-types.php:71
+msgid "Shortcode"
+msgstr "Kortkode"
+
+#: includes/admin/pages/system-status.php:513
+msgid "User Agent:"
+msgstr "Brukeragent:"
+
+#: includes/admin/pages/system-status.php:511
+msgid "Version:"
+msgstr "Versjon:"
+
+#: includes/admin/pages/system-status.php:264
+msgid "Parent Theme"
+msgstr "Foreldertema"
+
+#: includes/admin/pages/system-status.php:339
+msgid "%1$s - It is recomendend to upgrade at least to PHP version 5.4 for security reasons. <a href=\"%2$s\" target=\"_blank\">Read more.</a>"
+msgstr "%1$s - Det er anbefalt å oppgradere til minst PHP-versjon 5.4 av sikkerhetshensyn. <a href=\"%2$s\" target=\"_blank\">Les mer.</a>"
+
+#: includes/admin/pages/system-status.php:359
+msgid "Server default timezone is %s - it should be UTC"
+msgstr "Standard tidssone på serveren er %s - den burde være UTC"
+
+#: includes/admin/pages/system-status.php:417
+msgid "Web Server"
+msgstr "Webserver"
+
+#: includes/admin/pages/system-status.php:422
+msgid "PHP Version"
+msgstr "PHP versjon"
+
+#: includes/admin/pages/system-status.php:428
+msgid "MySQL Version"
+msgstr "MySQL versjon"
+
+#: includes/admin/pages/system-status.php:434
+msgid "Server Timezone"
+msgstr "Servertidssone"
+
+#: includes/admin/pages/system-status.php:509
+msgid "Name:"
+msgstr "Navn:"
+
+#: includes/admin/pages/system-status.php:252
+msgid "Theme Information"
+msgstr "Temainformasjon"
+
+#: includes/admin/pages/system-status.php:258
+msgid "Child Theme"
+msgstr "Dattertema"
+
+#: includes/admin/pages/system-status.php:220
+#: includes/admin/pages/system-status.php:240
+#: includes/admin/pages/system-status.php:314
+msgid "Author"
+msgstr "Forfattar"
+
+#: includes/admin/pages/system-status.php:212
+#: includes/admin/pages/system-status.php:305
+msgid "%s is available"
+msgstr "%s er tilgjengelig"
+
+#: includes/admin/pages/system-status.php:218
+#: includes/admin/pages/system-status.php:238
+msgid "Name"
+msgstr "Navn"
+
+#: includes/admin/pages/system-status.php:144
+msgid "Locale"
+msgstr "Locale"
+
+#: includes/admin/pages/system-status.php:154
+msgid "Multisite"
+msgstr "Fler side"
+
+#: includes/admin/pages/system-status.php:160
+msgid "Permalinks"
+msgstr "Permalenker"
+
+#: includes/admin/pages/system-status.php:139
+#: includes/admin/pages/system-status.php:222
+#: includes/admin/pages/system-status.php:242
+#: includes/admin/pages/system-status.php:316
+msgid "Version"
+msgstr "Versjon"
+
+#: includes/admin/pages/system-status.php:112
+msgid "%1$s - It is recomendend to set memory to at least 64MB. See: <a href=\"%2$s\" target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr "%1$s - Det er anbefalt å sette minne til minst 64MB. Se: <a href=\"%2$s\" target=\"_blank\">Øking av minne allokert til PHP</a>"
+
+#: includes/admin/pages/system-status.php:124
+msgid "Site Name"
+msgstr "Nettstedets navn"
+
+#: includes/admin/pages/system-status.php:129
+msgid "Home URL"
+msgstr "Hjemme-URL"
+
+#: includes/admin/pages/system-status.php:134
+msgid "Site URL"
+msgstr "Nettsteds-URL"
+
+#: includes/admin/pages/system-status.php:84
+msgid "Client Information"
+msgstr "Klientinformasjon"
+
+#: includes/admin/pages/system-status.php:101
+#: includes/admin/pages/system-status.php:156
+#: includes/admin/pages/system-status.php:260
+#: includes/admin/pages/system-status.php:376
+#: includes/admin/pages/system-status.php:396
+#: includes/admin/pages/system-status.php:446
+#: includes/admin/pages/system-status.php:471
+#: includes/admin/pages/system-status.php:476
+#: includes/admin/pages/system-status.php:481
+#: includes/admin/pages/system-status.php:486
+msgid "No"
+msgstr "Nei"
+
+#: includes/admin/pages/calendars.php:98
+msgid "Show Some Love"
+msgstr "Vis noe kjærlighet"
+
+#: includes/admin/pages/calendars.php:144
+msgid "Attach Calendars"
+msgstr "Koble til kalendere"
+
+#: includes/admin/pages/calendars.php:145
+msgid "You can choose on which content types to add the ability to attach calendars."
+msgstr "Du kan velge på hvilke innholdstyper å legge til evnen å koble til kalendere."
+
+#: includes/admin/pages/calendars.php:169
+msgid "Powered by Simple Calendar"
+msgstr "Drevet av Simple Calendar"
+
+#: includes/admin/pages/calendars.php:170
+msgid "Help our plugin get noticed and display a small link to our plugin below your calendars. Thanks!"
+msgstr "Hjelp utvidelsen vår å bli sett og vis en liten lenke til utvidelsen vår under kalenderene dine. Takk!"
+
+#: includes/admin/pages/feeds.php:42
+msgid "Event Sources"
+msgstr "Arrangementskilder"
+
+#: includes/admin/pages/licenses.php:33
+msgid "Add-on Licenses"
+msgstr "Tilleggslisenser"
+
+#: includes/admin/pages/licenses.php:58
+msgid "WARNING: Are you sure you want to start over and delete all license keys from the settings?"
+msgstr "ADVARSEL: Er du sikker på at du vil starte på nytt og slette alle lisensnøkler fra innstillingene?"
+
+#: includes/admin/pages/licenses.php:59
+msgid "Delete your license keys"
+msgstr "Slett lisensnøklene dine"
+
+#: includes/admin/pages/licenses.php:76
+msgid "Premium Add-on License Keys"
+msgstr "Lisensnøkler for Premium tillegg"
+
+#: includes/admin/pages/licenses.php:77
+msgid "Enter your add-on license keys below, making sure to activate each one to ensure they are valid."
+msgstr "Skriv inn lisensnøklene for tilleggene dine nedenfor, og sørg for å aktivere hver eneste for å sikre at de er gyldige"
+
+#: includes/admin/pages/licenses.php:79
+msgid "Your license keys are used for access to automatic upgrades and premium support."
+msgstr "Lisensnøklene dine benyttes for å få tilgang til automatiske oppgraderinger og premiumstøtte."
+
+#: includes/admin/pages/system-status.php:33
+msgid "System Report"
+msgstr "Systemrapport"
+
+#: includes/admin/pages/system-status.php:54
+msgid "Please copy and paste this information when contacting support:"
+msgstr "Vennligst kopier og lim inn denne informasjonen når du kontakter support:"
+
+#: includes/admin/pages/system-status.php:56
+msgid "You can also download your information as a text file to attach, or simply view it below."
+msgstr "Du kan også laste ned informasjonen din som en tekstfil å legge til, eller ganske enkelt se den nedenfor."
+
+#: includes/admin/pages/system-status.php:57
+msgid "Download System Report"
+msgstr "Last ned systemrapport"
+
+#: includes/admin/pages/system-status.php:68
+msgid "WordPress Installation"
+msgstr "Wordpress-installasjon"
+
+#: includes/admin/pages/system-status.php:72
+msgid "Active Theme"
+msgstr "Aktivt tema"
+
+#: includes/admin/pages/system-status.php:76
+msgid "Active Plugins"
+msgstr "Aktive utvidelser"
+
+#: includes/admin/pages/system-status.php:80
+msgid "Server Environment"
+msgstr "Servermiljø"
+
+#: includes/admin/metaboxes/settings.php:721
+msgid "Some calendars may use this setting to display the start of the week. It is recommended to keep the site default setting."
+msgstr "Noen kalendere kan benytte denne innstillingen for å vise starten på uken. Det er anbefalt å beholde sitens standardinnstilling."
+
+#: includes/admin/metaboxes/settings.php:728
+msgid "Cache"
+msgstr "Cache"
+
+#: includes/admin/metaboxes/settings.php:740
+msgctxt "Cache maximum interval"
+msgid "Refresh interval"
+msgstr "Refresh intervall"
+
+#: includes/admin/metaboxes/settings.php:751
+msgid "Minute(s)"
+msgstr "Minutt(er)"
+
+#: includes/admin/metaboxes/settings.php:752
+msgid "Hour(s)"
+msgstr "Time(r)"
+
+#: includes/admin/metaboxes/settings.php:753
+#: includes/calendars/admin/default-calendar-admin.php:186
+msgid "Day(s)"
+msgstr "Dag(er)"
+
+#: includes/admin/metaboxes/settings.php:754
+#: includes/calendars/admin/default-calendar-admin.php:185
+msgid "Week(s)"
+msgstr "Uke(r)"
+
+#: includes/admin/metaboxes/settings.php:756
+msgid "If you add, edit or remove events in your calendar very often, you can set a lower interval to refresh the events displayed. Set a higher interval for best performance."
+msgstr "Dersom du legger til, redigerer, eller fjerner arrangement i kalenderen svært ofte, kan du sette et kortere intervall for å refreshe arrangementene som vises. Sett et lengre intervall for best ytelse."
+
+#: includes/admin/pages/advanced.php:52
+msgid "Installation"
+msgstr "Installasjon"
+
+#: includes/admin/pages/advanced.php:53
+msgid "Manage your data (plugin settings and saved calendars)."
+msgstr "Håndter dataene dine (utvidelsesinnstillinger og lagrede kalendere)."
+
+#: includes/admin/pages/advanced.php:77
+msgid "If ticked, this option will prevent front end stylesheet to load."
+msgstr "Dersom merket, vil dette valget hindre front-end stilark å lastes."
+
+#: includes/admin/pages/advanced.php:89
+msgid "Delete settings"
+msgstr "Slett innstillinger"
+
+#: includes/admin/pages/advanced.php:90
+msgid "Tick this option if you want to wipe this plugin settings from database when uninstalling."
+msgstr "Marker dette valget dersom du ønsker å fjerne denne utvidelsen fra databasen når du avinstallerer."
+
+#: includes/admin/pages/advanced.php:97
+msgid "Erase calendar data"
+msgstr "Slett kalenderdata"
+
+#: includes/admin/pages/advanced.php:98
+msgid "By default your data will be retained in database even after uninstall. Tick this option if you want to delete all your calendar data when uninstalling."
+msgstr "Som standard vil dataene dine forbli i databasen, selv etter avinstallasjon. Marker dette valget dersom du ønsker å slette all kalenderdata ved avinstallasjon."
+
+#: includes/admin/pages/calendars.php:77
+msgid "General"
+msgstr "Generelle"
+
+#: includes/admin/metaboxes/settings.php:331
+msgid "Specific date"
+msgstr "Spesifikk dato"
+
+#: includes/admin/metaboxes/settings.php:349
+msgid "The calendar default opening date. It will automatically adapt based on the chosen calendar type."
+msgstr "Standard åpningsdato for kalenderen. Den vil automatisk tilpasses basert på den valgte kalendetypen."
+
+#: includes/admin/metaboxes/settings.php:353
+msgid "Earliest event"
+msgstr "Tidligste arrangement"
+
+#: includes/admin/metaboxes/settings.php:380
+msgid "Same as start date"
+msgstr "Samme som startdato"
+
+#: includes/admin/metaboxes/settings.php:381
+msgid "Day(s) before start date"
+msgstr "Dag(er) før startdato"
+
+#: includes/admin/metaboxes/settings.php:382
+msgid "Week(s) before start date"
+msgstr "Uke(r) før startdato"
+
+#: includes/admin/metaboxes/settings.php:383
+msgid "Month(s) before start date"
+msgstr "Måned(er) før startdato"
+
+#: includes/admin/metaboxes/settings.php:384
+msgid "Year(s) before start date"
+msgstr "År før startdato"
+
+#: includes/admin/metaboxes/settings.php:387
+msgid "Set the date for the earliest possible event to show in calendar. There will not be events before this date."
+msgstr "Sett datoen for første mulige arrangement å vises i kalenderen. Det vil ikke være arrangement før denne datoen."
+
+#: includes/admin/metaboxes/settings.php:391
+msgid "Latest event"
+msgstr "Seneste arrangement"
+
+#: includes/admin/metaboxes/settings.php:418
+msgid "Day end of start date"
+msgstr "Dagsslutt for startdato"
+
+#: includes/admin/metaboxes/settings.php:419
+msgid "Day(s) after start date"
+msgstr "Dag(er) etter startdato"
+
+#: includes/admin/metaboxes/settings.php:420
+msgid "Weeks(s) after start date"
+msgstr "Uke(r) etter startdato"
+
+#: includes/admin/metaboxes/settings.php:421
+msgid "Month(s) after start date"
+msgstr "Måned(er) etter startdato"
+
+#: includes/admin/metaboxes/settings.php:422
+msgid "Year(s) after start date"
+msgstr "År etter startdato"
+
+#: includes/admin/metaboxes/settings.php:425
+msgid "Set the date for the latest possible event to show on calendar. There will not be events after this date."
+msgstr "Sett datoen for senest mulige arrangement å vises i kalenderen. Det vil ikke finnes arrangement etter denne datoen."
+
+#: includes/admin/metaboxes/settings.php:447
+msgid "Miscellaneous"
+msgstr "Diverse"
+
+#: includes/admin/metaboxes/settings.php:451
+msgid "Static calendar"
+msgstr "Statisk kalender"
+
+#: includes/admin/metaboxes/settings.php:461
+msgid "Remove the navigation arrows and fix the calendar view to its initial state."
+msgstr "Fjern navigasjonspiler og fiks kalendervisningen til dens opprinnelige tilstand."
+
+#: includes/admin/metaboxes/settings.php:469
+msgid "No events message"
+msgstr "Ingen hendelser melding"
+
+#: includes/admin/metaboxes/settings.php:477
+msgid "Some calendars may display a message when no events are found. You can change the default message here."
+msgstr "Noen kalendere kan vise en melding når det ikke er funnet noen arrangement. Du kan endre standardmeldingen her."
+
+#: includes/admin/metaboxes/settings.php:527
+msgid "Date and Time"
+msgstr "Dato og klokkeslett:"
+
+#: includes/admin/metaboxes/settings.php:555
+msgctxt "Use the calendar default setting"
+msgid "Events source default"
+msgstr "Standard arrangementskilde"
+
+#: includes/admin/metaboxes/settings.php:557
+#: includes/admin/metaboxes/settings.php:587
+#: includes/admin/metaboxes/settings.php:659
+#: includes/admin/metaboxes/settings.php:709
+msgctxt "Use a custom setting"
+msgid "Custom"
+msgstr "Tilpasset"
+
+#: includes/admin/metaboxes/settings.php:565
+msgid "Using a different timezone may alter the date and time display of your calendar events. It is recommended to keep the calendar default timezone."
+msgstr "Å benytte en annen tidssone kan endre dato- og klokkeslettvisningen for arrangement i kalenderen. Det er anbefalt å beholde kalenderens standard tidssone."
+
+#: includes/admin/metaboxes/settings.php:588
+#: includes/admin/metaboxes/settings.php:660
+msgid "Custom (PHP format)"
+msgstr "Tilpasset (PHP-format)"
+
+#: includes/admin/metaboxes/settings.php:590
+msgid "This option sets how calendars display event dates. It is recommended to keep your site default setting."
+msgstr "Dette valget bestemmer hvordan kalendere viser arrangementsdatoer. Det er anbefalt å beholde sitens standardinnstilling."
+
+#: includes/admin/metaboxes/settings.php:611
+msgid "Enter a date format using %s values."
+msgstr "Skriv inn et datoformat ved å bruke %s verdier"
+
+#: includes/admin/metaboxes/settings.php:634
+msgid "Used to divide date and time when both are shown."
+msgstr "Brukes for å skille dato og klokkeslett når begge vises."
+
+#: includes/admin/metaboxes/settings.php:662
+msgid "This option sets how calendars display event times. It is recommended to keep your site default setting."
+msgstr "Dette valget bestemmer hvordan kalendere viser arrangementstider. Det er anbefalt å beholde sitens standardinnstilling."
+
+#: includes/admin/metaboxes/settings.php:683
+msgid "Enter a time format using %s values."
+msgstr "Skriv inn et tidsformat ved å bruke %s verdier"
+
+#: includes/admin/metaboxes/settings.php:693
+msgid "Week starts on"
+msgstr "Uke starter på"
+
+#: includes/admin/metaboxes/settings.php:288
+msgid "Now"
+msgstr "Nå"
+
+#: includes/admin/metaboxes/settings.php:291
+msgid "Day(s) before today"
+msgstr "Dag(er) før i dag"
+
+#: includes/admin/metaboxes/settings.php:294
+msgid "Day(s) after today"
+msgstr "Dag(er) etter i dag"
+
+#: includes/admin/metaboxes/settings.php:299
+msgid "This week"
+msgstr "Denne uke"
+
+#: includes/admin/metaboxes/settings.php:302
+msgid "Week(s) before current"
+msgstr "Uke(r) før gjeldende"
+
+#: includes/admin/metaboxes/settings.php:305
+msgid "Week(s) after current"
+msgstr "Uke(r) etter gjeldende"
+
+#: includes/admin/metaboxes/settings.php:310
+msgid "This month"
+msgstr "Denne måneden"
+
+#: includes/admin/metaboxes/settings.php:313
+msgid "Month(s) before current"
+msgstr "Måned(er) før gjeldende"
+
+#: includes/admin/metaboxes/settings.php:316
+msgid "Month(s) after current"
+msgstr "Måned(er) etter gjeldende"
+
+#: includes/admin/metaboxes/settings.php:321
+msgid "This year"
+msgstr "Dette året"
+
+#: includes/admin/metaboxes/settings.php:323
+msgid "Year(s) before current"
+msgstr "År før gjeldende"
+
+#: includes/admin/metaboxes/settings.php:326
+msgid "Year(s) after current"
+msgstr "År etter gjeldende"
+
+#: includes/admin/metaboxes/settings.php:328
+msgid "Other"
+msgstr "Annet"
+
+#: includes/admin/metaboxes/settings.php:241
+msgid "Events setting"
+msgstr "Arrangementsinnstilling"
+
+#: includes/admin/metaboxes/settings.php:245
+msgid "Calendar start"
+msgstr "Kalenderstart"
+
+#: includes/admin/metaboxes/settings.php:285
+#: includes/calendars/admin/default-calendar-admin.php:337
+msgid "Today"
+msgstr "I dag"
+
+#: includes/admin/metaboxes/settings.php:165
+msgid "View to display"
+msgstr "Visning å vise"
+
+#: includes/admin/metaboxes/settings.php:192
+msgid "Events"
+msgstr "Kamper"
+
+#: includes/admin/metaboxes/settings.php:198
+msgid "Appearance"
+msgstr "Utseende"
+
+#: includes/admin/metaboxes/settings.php:207
+#: includes/admin/pages/advanced.php:32
+msgid "Advanced"
+msgstr "Detaljert"
+
+#: includes/admin/metaboxes/settings.php:145
+msgid "Calendar to use"
+msgstr "Kalender å bruke"
+
+#: includes/admin/metaboxes/settings.php:163
+msgid "View"
+msgstr "Se"
+
+#: includes/admin/menus.php:207
+msgid "If you like <strong>Simple Calendar</strong> please leave us a %s&#9733;&#9733;&#9733;&#9733;&#9733; rating on WordPress.org%s. A huge thank you in advance!"
+msgstr "Dersom du liker <strong>Simple Calendar</strong> vennligst gi oss en %s&#9733;&#9733;&#9733;&#9733;&#9733; rangering på WordPress.org%s.På forhånd, en stor takk!"
+
+#: includes/admin/menus.php:208
+msgid "Thanks :)"
+msgstr "Takk :)"
+
+#: includes/admin/menus.php:220
+msgid "Thank you for using Simple Calendar!"
+msgstr "Takk for at du bruker Simple Calendar!"
+
+#: includes/admin/meta-boxes.php:81
+msgid "Calendar Settings"
+msgstr "Kalenderinnstillinger"
+
+#: includes/admin/meta-boxes.php:93
+msgid "Get 20% off Google Calendar Pro!"
+msgstr "Få 20 % av Google Calendar Pro!"
+
+#: includes/admin/meta-boxes.php:104
+msgid "Calendar Shortcode"
+msgstr "Kalender hurtigkode"
+
+#: includes/admin/meta-boxes.php:116
+msgid "Attach Calendar"
+msgstr "Legg til Kalender"
+
+#: includes/admin/metaboxes/attach-calendar.php:59
+msgid "After content"
+msgstr "Etter innhold"
+
+#: includes/admin/metaboxes/attach-calendar.php:60
+msgid "Before content"
+msgstr "Før innhold"
+
+#: includes/admin/metaboxes/settings.php:121
+msgid "Event Source"
+msgstr "Arrangementskilde"
+
+#: includes/admin/metaboxes/settings.php:123
+msgctxt "From which calendar source to load events from"
+msgid "Get events from"
+msgstr "Hent arrangement fra"
+
+#: includes/admin/metaboxes/settings.php:143 includes/post-types.php:173
+#: includes/post-types.php:201 includes/widgets/calendar.php:125
+msgid "Calendar"
+msgstr "Kalendar"
+
+#: includes/admin/menus.php:122 includes/admin/pages/calendars.php:42
+#: includes/admin/welcome.php:134 includes/post-types.php:172
+msgid "Calendars"
+msgstr "Kalendere"
+
+#: includes/admin/menus.php:149
+msgid "Support"
+msgstr "Support"
+
+#: includes/admin/menus.php:81 includes/admin/menus.php:82
+#: includes/admin/menus.php:151 includes/admin/pages/add-ons.php:31
+#: includes/admin/welcome.php:140
+msgid "Add-ons"
+msgstr "Utvidelser"
+
+#: includes/admin/menus.php:93 includes/admin/menus.php:94
+msgid "Tools"
+msgstr "Verktøy"
+
+#: includes/admin/fields/license.php:86
+msgid "(active)"
+msgstr "(aktiv)"
+
+#: includes/admin/menus.php:69 includes/admin/menus.php:70
+#: includes/admin/menus.php:121 includes/admin/welcome.php:137
+msgid "Settings"
+msgstr "Alternativer"
+
+#: includes/admin/fields/license.php:81
+msgid "Activate"
+msgstr "Aktivere"
+
+#: includes/admin/fields/datetime-format.php:294
+msgid "Hours"
+msgstr "Timer"
+
+#: includes/admin/fields/datetime-format.php:319
+msgid "Minutes"
+msgstr "Minutter"
+
+#: includes/admin/fields/datetime-format.php:341
+msgid "Meridiem"
+msgstr "Meridiem"
+
+#: includes/admin/fields/datetime-format.php:364
+msgctxt "A character to separate two elements"
+msgid "Divider"
+msgstr "Skilletegn"
+
+#: includes/admin/fields/license.php:77
+msgid "Deactivate"
+msgstr "Deaktivere"
+
+#: includes/admin/fields/datetime-format.php:246
+msgid "Month"
+msgstr "Måned"
+
+#: includes/admin/fields/datetime-format.php:271
+msgid "Year"
+msgstr "År"
+
+#: includes/admin/fields/datetime-format.php:200
+msgid "Weekday"
+msgstr "Ukedag"
+
+#: includes/admin/fields/datetime-format.php:223
+msgid "Day"
+msgstr "Dag"
+
+#: includes/admin/ajax.php:96
+msgid "Add-on unspecified or invalid action."
+msgstr "Uspesifisert tillegg eller ugyldig handling."
+
+#: includes/admin/ajax.php:101 includes/admin/ajax.php:163
+msgid "An error occurred: %s"
+msgstr "En feil oppsto: %s"
+
+#: includes/admin/ajax.php:132
+msgid "There was an error processing your request: %s"
+msgstr "Det oppstod en feil under behandling av forespørselen din: %s"
+
+#: includes/admin/ajax.php:145
+msgid "License key is invalid."
+msgstr "Lisensnøkkel er ugyldig."
+
+#: includes/admin/fields/datetime-format.php:98
+#: includes/admin/metaboxes/settings.php:592
+#: includes/admin/metaboxes/settings.php:614
+#: includes/admin/metaboxes/settings.php:664
+#: includes/admin/metaboxes/settings.php:686
+msgid "Preview"
+msgstr "Forhåndsvisning"
+
+#: includes/post-types.php:177
+msgid "Add New"
+msgstr "Legg til ny"
+
+#: includes/calendars/default-calendar.php:113
+#: includes/calendars/views/default-calendar-grid.php:92
+msgid "Grid"
+msgstr "Matrise"
+
+#: includes/calendars/default-calendar.php:114
+#: includes/calendars/views/default-calendar-list.php:108
+msgid "List"
+msgstr "Liste"
+
+#: includes/feeds/admin/google-admin.php:96
+msgid "Google API Key"
+msgstr "Google API-nøkkel"
+
+#: includes/admin/metaboxes/settings.php:621
+msgid "Separator"
+msgstr "Skiller"
+
+#: includes/feeds/google.php:98
+msgid "Google Calendar"
+msgstr "Google-kalender"
+
+#: includes/admin/metaboxes/settings.php:531
+#: includes/admin/pages/system-status.php:149
+msgid "Timezone"
+msgstr "Tidssone"
+
+#: includes/admin/metaboxes/settings.php:553
+#: includes/admin/metaboxes/settings.php:586
+#: includes/admin/metaboxes/settings.php:658
+#: includes/admin/metaboxes/settings.php:708
+msgctxt "Use this site default setting"
+msgid "Site default"
+msgstr "Websidestandard"
+
+#: includes/feeds/admin/google-admin.php:189
+msgid "Search query"
+msgstr "Søk"
+
+#: includes/admin/fields/checkbox.php:90
+#: includes/admin/pages/system-status.php:103
+#: includes/admin/pages/system-status.php:106
+#: includes/admin/pages/system-status.php:156
+#: includes/admin/pages/system-status.php:260
+#: includes/admin/pages/system-status.php:373
+#: includes/admin/pages/system-status.php:393
+#: includes/admin/pages/system-status.php:441
+#: includes/admin/pages/system-status.php:446
+#: includes/admin/pages/system-status.php:471
+#: includes/admin/pages/system-status.php:476
+#: includes/admin/pages/system-status.php:481
+#: includes/admin/pages/system-status.php:486
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/admin/metaboxes/settings.php:572
+msgid "Date format"
+msgstr "Datoformat"
+
+#: includes/admin/metaboxes/settings.php:644
+msgid "Time format"
+msgstr "Tidsformat"
+
+#: includes/admin/menus.php:147 includes/admin/welcome.php:143
+msgid "Documentation"
+msgstr "Dokumentasjon"
+
+#: includes/widgets/calendar.php:132
+msgid "Title:"
+msgstr "Overskrift::"
+
+#. Author of the plugin/theme
+msgid "Moonstone Media"
+msgstr "Moonstone Media"
+
+#: includes/admin/post-types.php:306 includes/admin/post-types.php:328
+msgid "Add Calendar"
+msgstr "Legg til kalender"
+
+#: includes/admin/post-types.php:329
+msgid "Add a calendar to your post."
+msgstr "Legg til en kalender i innlegget ditt."
+
+#: includes/admin/post-types.php:343
+msgid "Insert Calendar"
+msgstr "Legg inn kalender"
+
+#: includes/admin/post-types.php:345
+msgid "Could not find any calendars to add to this post."
+msgstr "Kunne ikke finne noen kaleder å legge til dette innlegget."
+
+#: includes/admin/post-types.php:144
+msgid "Clear Cache"
+msgstr "Tøm buffer"
+
+#: includes/calendars/views/default-calendar-list.php:219
+msgid "Next"
+msgstr "Neste"
+
+#: includes/calendars/views/default-calendar-list.php:204
+msgid "Previous"
+msgstr "Forrige"

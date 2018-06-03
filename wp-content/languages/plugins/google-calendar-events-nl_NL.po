@@ -1,0 +1,1545 @@
+# Translation of Plugins - Simple Calendar &#8211; Google Calendar Plugin - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Simple Calendar &#8211; Google Calendar Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-30 22:04:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Simple Calendar &#8211; Google Calendar Plugin - Stable (latest release)\n"
+
+#: includes/admin/pages/system-status.php:350
+msgid "Cannot connect to MySQL database."
+msgstr "Kan niet verbinden met MySQL_database."
+
+#: includes/functions/admin.php:372
+msgid "Upgrade to Premium Now"
+msgstr "Upgrade naar Premium"
+
+#: includes/functions/admin.php:365
+msgid "Display attachments"
+msgstr "Toon bijvoegsels"
+
+#: includes/admin/meta-boxes.php:96
+msgid "Looking for more?"
+msgstr "Je zoekt meer?"
+
+#: includes/admin/metaboxes/settings.php:625
+msgid "See details."
+msgstr "Bekijk gegevens."
+
+#: includes/admin/metaboxes/settings.php:622
+msgid "Warning"
+msgstr "Waarschuwing"
+
+#: includes/admin/pages/system-status.php:480
+msgid "No version found."
+msgstr "Geen versie gevonden."
+
+#: includes/admin/metaboxes/settings.php:504
+#: includes/calendars/views/default-calendar-list.php:679
+msgid "There are no upcoming events."
+msgstr "Er zijn geen naderende evenementen."
+
+#: includes/admin/metaboxes/settings.php:550
+msgid "Yes, Simple Calendar rocks! Show some love with a little link below this calendar."
+msgstr "Ja, Simple Calendar is vet! Toon een beetje liefde met een klein linkje onderaan deze agenda."
+
+#: includes/admin/metaboxes/settings.php:538
+msgid "Powered By"
+msgstr "Aangeboden door"
+
+#: includes/calendars/admin/default-calendar-admin.php:371
+msgid "This setting will modify the day number background for any days that have events on them."
+msgstr "Deze optie wijzigt de achtergrond van het dagnummer voor alle dagen met evenementen."
+
+#: includes/calendars/admin/default-calendar-admin.php:351
+msgid "This option will set the background color for today's date. It will change the day number background and the border around the current day."
+msgstr "Deze optie bepaalt de achtergrondkleur voor het evenement van vandaag. Ze zal de achtergrond van het dagnummer en het kader rond de huidige dag wijzigen. "
+
+#: includes/admin/welcome.php:208
+msgid "View Pricing and Try a Demo of our Simple Calendar Pro Add-ons."
+msgstr "Bekijk de prijzen en probeer een demo van onze Simple Calendar Pro Add-ons."
+
+#: includes/admin/welcome.php:204
+msgid "FullCalendar and Google Calendar Pro"
+msgstr "FullCalendar en Google Calendar Pro"
+
+#: includes/admin/welcome.php:203
+msgid "Add even more display options with add-ons like"
+msgstr "Voeg nog meer weergave-opties toe met add-ons zoals"
+
+#: includes/admin/welcome.php:195
+msgid "Configure event colors, number of events to display, grid or list style and more."
+msgstr "Configureer evenementkleuren, aantal weer te geven evenementen, raster- of lijstweergave en meer."
+
+#: includes/admin/welcome.php:152
+msgid "to get started now."
+msgstr "om nu van start te gaan."
+
+#: includes/admin/welcome.php:151
+msgid "Check out our documentation"
+msgstr "Bekijk onze documentatie"
+
+#. translators: %s prints the current version of the plugin.
+#: includes/admin/welcome.php:147
+msgid "Simple Calendar %s has a few display options to configure. "
+msgstr "Simpele Calendar %s heeft enkele weergave-opties te configureren."
+
+#: includes/admin/pages/advanced.php:77
+msgid "If ticked, this option will prevent all front end stylesheets to load. This also includes all add-on stylesheets."
+msgstr "Wanneer aangevinkt zal deze optie verhinderen om alle frontend stylesheets te laden, inclusief alle add-on stylesheets."
+
+#: includes/admin/metaboxes/settings.php:485
+msgid "Yes (hide navigation arrows)"
+msgstr "Ja (verberg navigatiepijlen)"
+
+#: includes/admin/metaboxes/settings.php:322
+msgid "Years"
+msgstr "Jaarlijks"
+
+#: includes/admin/metaboxes/settings.php:311
+msgid "Months"
+msgstr "maand(en)"
+
+#: includes/admin/metaboxes/settings.php:300
+msgid "Weeks"
+msgstr "Wekelijks"
+
+#: includes/admin/metaboxes/settings.php:286
+msgid "Days"
+msgstr "Dagen"
+
+#: includes/calendars/admin/default-calendar-admin.php:295
+msgid "No, display on all days of event up to current day (list view only)"
+msgstr "Nee, laat op alle dagen tot vandaag zien (lijstweergave)"
+
+#: includes/calendars/admin/default-calendar-admin.php:294
+msgid "No, display only on first day of event"
+msgstr "Nee, laat alleen op eerste dag van evenement zien"
+
+#: includes/calendars/admin/default-calendar-admin.php:293
+msgid "Yes, display on all days of event"
+msgstr "Ja, laat op alle dagen van het evenement zien"
+
+#: includes/admin/pages/advanced.php:76
+msgid "Disable CSS"
+msgstr "CSS Uitschakelen"
+
+#: includes/admin/pages/advanced.php:49
+msgid "Manage front end assets that handle the calendars appearance."
+msgstr "Beheer weergave-onderdelen van de agenda."
+
+#: includes/admin/pages/advanced.php:48
+msgid "Styles"
+msgstr "Opmaak"
+
+#: includes/admin/metaboxes/settings.php:529
+msgid "No line breaks, no auto paragraphs"
+msgstr "Geen regeleinden, geen automatische paragrafen"
+
+#: includes/admin/metaboxes/settings.php:528
+msgid "No line breaks, auto paragraphs"
+msgstr "Geen regeleinden, automatische paragrafen"
+
+#: includes/admin/metaboxes/settings.php:527
+msgid "Preserve line breaks, auto paragraphs (default)"
+msgstr "Behoud regeleinden, automatische paragrafen (standaard)"
+
+#: includes/admin/metaboxes/settings.php:523
+msgid "How to preserve line breaks and paragraphs in the event template builder."
+msgstr "Hoe dienen regeleinden en paragrafen behouden te blijven in de evenement template bouwer."
+
+#: includes/admin/metaboxes/settings.php:512
+msgid "Event Formatting"
+msgstr "Evenement Opmaak"
+
+#: includes/abstracts/calendar.php:843
+msgid "Powered by <a href=\"%s\" target=\"_blank\">Simple Calendar</a>"
+msgstr "Mogelijk gemaakt door <a href=\"%s\" target=\"_blank\">Simple Calendar</a>"
+
+#: includes/events/event-builder.php:791
+msgctxt "human date event builder code modifier"
+msgid "ago"
+msgstr "geleden"
+
+#: includes/events/event-builder.php:793
+msgctxt "human date event builder code modifier"
+msgid "from now"
+msgstr "vanaf nu"
+
+#: includes/feeds/admin/google-admin.php:87
+msgid "<strong>Note:</strong> Calendars configured to use the <strong><a href=\"%s\" target=\"_blank\">Google Calendar Pro add-on</a></strong> use a different method of authorization."
+msgstr "<strong>Opmerking:</strong> Agenda's die gebruik maken van de <strong><a href=\"%s\" target=\"_blank\">Google Calendar Pro add-on</a></strong> hebben een andere autorisatiemethode."
+
+#. Description of the plugin/theme
+msgid "Add Google Calendar events to your WordPress site in minutes. Beautiful calendar displays. Fully responsive."
+msgstr "Voeg Google Agenda's aan je WordPress toe in minuten. Mooie agendaweergaves. Volledig responsive."
+
+#. #-#-#-#-#  google-calendar-events-code.pot (Simple Calendar 3.1.10) 
+#. #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  google-calendar-events-code.pot (Simple Calendar 3.1.10) 
+#. #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://simplecalendar.io"
+msgstr "https://simplecalendar.io"
+
+#: includes/widgets/calendar.php:148
+msgid "No calendars found."
+msgstr "Geen agenda's gevonden."
+
+#: includes/widgets/calendar.php:142
+msgid "Calendar:"
+msgstr "Agenda:"
+
+#: includes/widgets/calendar.php:51
+msgid "Display a calendar of events from one of your calendar feeds."
+msgstr "Toon een evenementenagenda uit een van je agendafeeds."
+
+#. #-#-#-#-#  google-calendar-events-code.pot (Simple Calendar 3.1.10) 
+#. #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#. #-#-#-#-#  google-calendar-events-code.pot (Simple Calendar 3.1.10) 
+#. #-#-#-#-#
+#. Author of the plugin/theme
+#: includes/widgets/calendar.php:49
+msgid "Simple Calendar"
+msgstr "Simple Calendar"
+
+#: includes/post-types.php:184
+msgid "Calendars not found in Trash"
+msgstr "Agenda's niet gevonden in prullenmand"
+
+#: includes/post-types.php:183
+msgid "Calendars not found"
+msgstr "Agenda's niet gevonden"
+
+#: includes/post-types.php:182
+msgid "Search Calendar"
+msgstr "Zoek agenda"
+
+#: includes/post-types.php:181
+msgid "View Calendar"
+msgstr "Agenda bekijken"
+
+#: includes/post-types.php:180
+msgid "Update Calendar"
+msgstr "Update agenda"
+
+#: includes/calendars/views/default-calendar-grid.php:196
+#: includes/calendars/views/default-calendar-list.php:197
+#: includes/post-types.php:179
+msgid "Edit Calendar"
+msgstr "Agenda bijwerken"
+
+#: includes/post-types.php:178
+msgid "New Calendar"
+msgstr "Nieuwe agenda"
+
+#: includes/post-types.php:176
+msgid "Add New Calendar"
+msgstr "Nieuwe agenda toevoegen"
+
+#: includes/post-types.php:175
+msgid "All Calendars"
+msgstr "Alle agenda's"
+
+#: includes/post-types.php:174
+msgid "Parent Calendar:"
+msgstr "Hoofdagenda:"
+
+#: includes/post-types.php:171
+msgctxt "Post Type Singular Name"
+msgid "Calendar"
+msgstr "Agenda"
+
+#: includes/post-types.php:170
+msgctxt "Post Type General Name"
+msgid "Calendars"
+msgstr "Agenda's"
+
+#: includes/post-types.php:138
+msgid "Search Categories"
+msgstr "Categorie zoeken"
+
+#: includes/post-types.php:137
+msgid "Popular Categories"
+msgstr "Populaire categorieën"
+
+#: includes/post-types.php:135
+msgid "Add or remove categories"
+msgstr "Categorieën toevoegen of verwijderen"
+
+#: includes/post-types.php:134
+msgid "Separate categories with commas"
+msgstr "Plaats komma's tussen verschillende categorieën"
+
+#: includes/post-types.php:133
+msgid "View Category"
+msgstr "Categorie tonen"
+
+#: includes/post-types.php:132
+msgid "Update Category"
+msgstr "Update categorie"
+
+#: includes/post-types.php:131
+msgid "Edit Category"
+msgstr "Bewerk categorie"
+
+#: includes/post-types.php:130
+msgid "Add New Category"
+msgstr "Categorie toevoegen"
+
+#: includes/post-types.php:129
+msgid "New Category"
+msgstr "Nieuwe categorie"
+
+#: includes/post-types.php:128
+msgid "Parent Category:"
+msgstr "Hoofdcategorie:"
+
+#: includes/post-types.php:127
+msgid "Parent Category"
+msgstr "Bovenliggende categorie"
+
+#: includes/post-types.php:126
+msgid "All Categories"
+msgstr "Alle categorieen"
+
+#: includes/post-types.php:123 includes/post-types.php:125
+msgid "Categories"
+msgstr "Categoriëen"
+
+#: includes/post-types.php:102
+msgid "Search Calendar Types"
+msgstr "Zoek agendatypes"
+
+#: includes/post-types.php:101
+msgid "Popular calendar types"
+msgstr "Populaire agendatypes"
+
+#: includes/post-types.php:99
+msgid "Add or remove calendar types"
+msgstr "Toevoegen of verwijderen van agendatypes"
+
+#: includes/post-types.php:98
+msgid "Separate calendar types with commas"
+msgstr "Scheid agendatypes met komma's"
+
+#: includes/post-types.php:97
+msgid "View Calendar Type"
+msgstr "Bekijk agendatype"
+
+#: includes/post-types.php:96
+msgid "Update Calendar Type"
+msgstr "Wijzig agendatype"
+
+#: includes/post-types.php:95
+msgid "Edit Calendar Type"
+msgstr "Bewerk agendatype"
+
+#: includes/post-types.php:94
+msgid "Add New Calendar Type"
+msgstr "Voeg nieuw agendatype toe"
+
+#: includes/post-types.php:93
+msgid "New Calendar Type"
+msgstr "Nieuw agendatype"
+
+#: includes/post-types.php:92
+msgid "Parent Calendar Type:"
+msgstr "Hoofdagendatype:"
+
+#: includes/post-types.php:91
+msgid "Parent Calendar Type"
+msgstr "Hoofdagendatype"
+
+#: includes/post-types.php:90
+msgid "All Calendar Types"
+msgstr "Alle agendatypes"
+
+#: includes/post-types.php:87
+msgid "Calendar Types"
+msgstr "Agendatypes"
+
+#: includes/post-types.php:67 includes/post-types.php:103
+#: includes/post-types.php:139
+msgid "Not Found"
+msgstr "Niets gevonden"
+
+#: includes/post-types.php:66
+msgid "Search Events Source Types"
+msgstr "Zoek brontypes van evenementen"
+
+#: includes/post-types.php:65
+msgid "Popular events source types"
+msgstr "Populaire brontypes van evenementen"
+
+#: includes/post-types.php:64 includes/post-types.php:100
+#: includes/post-types.php:136
+msgid "Choose from the most used"
+msgstr "Kies uit de meest gebruikte"
+
+#: includes/post-types.php:63
+msgid "Add or remove events source types"
+msgstr "Toevoegen of verwijderen van brontypes van evenementen"
+
+#: includes/post-types.php:62
+msgid "Separate events source types with commas"
+msgstr "Plaats komma's tussen verschillende brontypes van evenementen"
+
+#: includes/post-types.php:61
+msgid "View Events Source Type"
+msgstr "Bekijk brontype van evenementen"
+
+#: includes/post-types.php:60
+msgid "Update Events Source Type"
+msgstr "Update brontype van evenementen"
+
+#: includes/post-types.php:59
+msgid "Edit Events Source Type"
+msgstr "Pas brontype van evenementen aan"
+
+#: includes/post-types.php:58
+msgid "Add New Events Source Type"
+msgstr "Voeg nieuw brontype van evenementen toe"
+
+#: includes/post-types.php:57
+msgid "New Events Source Type"
+msgstr "Nieuw brontype van evenementen"
+
+#: includes/post-types.php:56
+msgid "Parent Events Source Type:"
+msgstr "Hoofdbrontypes van evenementen:"
+
+#: includes/post-types.php:55
+msgid "Parent Events Source Type"
+msgstr "Hoofdbrontype van evenementen"
+
+#: includes/post-types.php:54
+msgid "All Events Source Types"
+msgstr "Alle brontypes van evenementen"
+
+#: includes/post-types.php:52 includes/post-types.php:53
+msgid "Events Source Type"
+msgstr "Brontype van evenementen"
+
+#: includes/post-types.php:51
+msgid "Events Source Types"
+msgstr "Brontypes van evenementen"
+
+#: includes/functions/shared.php:283
+msgid "See more details"
+msgstr "Bekijk meer details"
+
+#: includes/functions/admin.php:331
+msgid "Thank you!"
+msgstr "Dank je wel."
+
+#: includes/functions/admin.php:321
+msgid "Send me the coupon"
+msgstr "Verstuur mij de coupon"
+
+#: includes/functions/admin.php:312
+msgid "First Name"
+msgstr "Voornaam"
+
+#: includes/functions/admin.php:304
+msgid "Your Email"
+msgstr "Jouw e-mailadres"
+
+#: includes/functions/admin.php:243
+msgid "Press %s to copy."
+msgstr "Klik %s om te kopiëren."
+
+#: includes/feeds/grouped-calendars.php:46
+msgid "Grouped Calendar"
+msgstr "Samengevoegde agenda"
+
+#: includes/feeds/google.php:358
+msgid "Only you can see this notice."
+msgstr "Alleen jij ziet deze melding."
+
+#: includes/feeds/admin/grouped-calendars-admin.php:155
+msgid "There are no calendar categories yet."
+msgstr "Er bestaan nog geen agenda-categorieën."
+
+#: includes/feeds/admin/grouped-calendars-admin.php:121
+#: includes/feeds/admin/grouped-calendars-admin.php:147
+msgid "No results found."
+msgstr "Geen resultaten gevonden"
+
+#: includes/feeds/admin/grouped-calendars-admin.php:103
+msgid "Choose from which calendar feeds you want to get events from. Choose them individually or select all those belonging to calendar feed categories."
+msgstr "Maak een keuze uit welke agendafeeds je evenementen van wilt verkrijgen. Kies een enkelvoudige bron of selecteer de agenda's toebehorend aan een categorie."
+
+#: includes/feeds/admin/grouped-calendars-admin.php:101
+#: includes/post-types.php:124
+msgid "Category"
+msgstr "Categorie"
+
+#: includes/feeds/admin/grouped-calendars-admin.php:100
+msgid "Manual selection"
+msgstr "Handmatige selectie"
+
+#: includes/feeds/admin/grouped-calendars-admin.php:88
+msgid "Get Calendars From"
+msgstr "Verkrijg agenda's vanuit"
+
+#: includes/feeds/admin/grouped-calendars-admin.php:84
+msgid "Grouped Calendar Settings"
+msgstr "Samengevoegde Calendar instellingen"
+
+#: includes/feeds/admin/google-admin.php:311 includes/feeds/google.php:357
+msgid "Please ensure that both your Google Calendar ID and API Key are valid and that the Google Calendar you want to display is public."
+msgstr "Wees er zeker van dat zowel je Google Calendar ID en API-sleutel geldig zijn en dat de Google Calendar welke je weer wilt geven publiekelijk staat ingesteld."
+
+#: includes/feeds/admin/google-admin.php:309 includes/feeds/google.php:355
+msgid "While trying to retrieve events, Google returned an error:"
+msgstr "Tijdens het verbinding maken om evenementen te ontvangen, heeft Google de volgende fout doorgegeven:"
+
+#: includes/feeds/admin/google-admin.php:278
+msgid "Your Google Calendar events will not show up until you <a href=\"%s\">create and save a Google API key</a>."
+msgstr "Je Google Calendar evenementen zullen niet weergegeven worden totdat je <a href=\"%s\">een Google API-sleutel gecreëerd en opgeslagen hebt.</a>."
+
+#: includes/feeds/admin/google-admin.php:262
+msgid "Step 2: Copy and paste your Google Calendar ID here. <a href=\"%2s\" target=\"_blank\">Detailed instructions</a>"
+msgstr "Stap 2: Kopieer en plak je Google Calendar ID hier. <a href=\"%2s\" target=\"_blank\">Gedetailleerde instructies</a>"
+
+#: includes/feeds/admin/google-admin.php:261
+msgid "Step 1: Set the Google Calendar you want to use as <strong>\"public.\"</strong> <a href=\"%1s\" target=\"_blank\">Detailed instructions</a>"
+msgstr "Stap 1: Stel de Google Calendar die je wilt gebruiken in op <strong>\"publiekelijk.\"</strong> <a href=\"%1s\" target=\"_blank\">Gedetailleerde instructies</a>"
+
+#: includes/feeds/admin/google-admin.php:227
+msgid "Google Calendar Settings"
+msgstr "Google Calendar instellingen"
+
+#: includes/feeds/admin/google-admin.php:210
+msgid "Google Calendar only allows to query for a maximum amount of 2500 events from a calendar each time."
+msgstr "Google Calendar staat per keer een selectie van maximaal 2500 evenementen toe vanuit een agenda."
+
+#: includes/feeds/admin/google-admin.php:209
+msgid "Maximum Events"
+msgstr "Maximaal aantal evenementen"
+
+#: includes/feeds/admin/google-admin.php:201
+msgid "Only show first occurrence"
+msgstr "Laat alleen de eerste vermelding zien"
+
+#: includes/feeds/admin/google-admin.php:200
+msgid "Show all"
+msgstr "Alles tonen"
+
+#: includes/feeds/admin/google-admin.php:198
+msgid "Events that are programmed to repeat themselves periodically."
+msgstr "Evenementen welke ingesteld zijn om periodiek herhaald te worden."
+
+#: includes/feeds/admin/google-admin.php:197
+msgid "Recurring Events"
+msgstr "Herhaalde evenementen"
+
+#: includes/feeds/admin/google-admin.php:191
+msgid "Filter events to display by search terms..."
+msgstr "Filter evenementen om weer te geven aan de hand van zoektermen..."
+
+#: includes/feeds/admin/google-admin.php:190
+msgid "Type in keywords if you only want display events that match these terms. You can use basic boolean search operators too."
+msgstr "Geef sleutelwoorden op indien je wenst dat er enkel evenementen weergegeven worden gebaseerd op deze woorden. Je kunt ook gebruik maken van basis zoekparameters."
+
+#: includes/feeds/admin/google-admin.php:180
+msgid "Enter a valid Google Calendar ID from a public calendar"
+msgstr "Voeg een geldige Google Calendar ID van een publieke agenda toe"
+
+#: includes/feeds/admin/google-admin.php:179
+msgid "Visit your Google Calendar account, copy your public calendar ID, then paste it here."
+msgstr "Bezoek je Google Calender account, kopieer je publieke Calendar-ID en plak deze hier."
+
+#: includes/feeds/admin/google-admin.php:178
+msgid "Calendar ID"
+msgstr "Calendar-ID"
+
+#: includes/feeds/admin/google-admin.php:134
+msgid "<a href=\"%s\" target=\"_blank\">Google Developers Console</a> "
+msgstr "<a href=\"%s\" target=\"_blank\">Google Ontwikkelaars Console</a> "
+
+#: includes/feeds/admin/google-admin.php:130
+msgid "<a href=\"%s\" target=\"_blank\">Step-by-step instructions</a> "
+msgstr "<a href=\"%s\" target=\"_blank\">Stap-voor-stap instructies</a> "
+
+#: includes/feeds/admin/google-admin.php:84
+msgid "To read events from your public Google Calendars you'll need create a Google API key and save it here."
+msgstr "Om evenementen uit je Google Calender te kunnen lezen, moet je een Google API-sleutel aanmaken en deze hier opslaan."
+
+#. translators: Someone did not send yet a rsvp confirmation to join an event.
+#: includes/events/event-builder.php:959
+msgid "Response pending"
+msgstr "Antwoord in afwachting"
+
+#. translators: Someone replied with 'maybe' to a rsvp request.
+#: includes/events/event-builder.php:956
+msgid "Maybe attending"
+msgstr "Misschien bijwonen"
+
+#. translators: Someone replied with 'no' to a rsvp request.
+#: includes/events/event-builder.php:953
+msgid "Not attending"
+msgstr "Niet bijwonen"
+
+#. translators: Someone replied with 'yes' to a rsvp request.
+#: includes/events/event-builder.php:950
+msgid "Attending"
+msgstr "Bijwonen"
+
+#: includes/events/event-builder.php:929
+msgctxt "No one yet rsvp to attend the event."
+msgid "No one yet"
+msgstr "Nog geen genodigden"
+
+#. translators: One or more persons attending the event whose name is unknown.
+#: includes/events/event-builder.php:924
+msgid "1 anonymous attendee"
+msgid_plural "%s anonymous attendees"
+msgstr[0] "1 anonieme genodigde"
+msgstr[1] "%s anonieme genodigden"
+
+#. translators: One more person attending the event.
+#: includes/events/event-builder.php:921
+msgid "1 more attendee"
+msgid_plural "%s more attendees"
+msgstr[0] "1 extra genodigde"
+msgstr[1] "%s extra genodigden"
+
+#: includes/events/event-builder.php:305
+msgid "No end time"
+msgstr "Geen eindtijd"
+
+#: includes/calendars/views/default-calendar-list.php:687
+msgid "Nothing from %1$s to %2$s."
+msgstr "Niets van %1$s tot %2$s."
+
+#: includes/calendars/views/default-calendar-grid.php:437
+msgid "Event"
+msgstr "Activiteit"
+
+#: includes/calendars/views/default-calendar-grid.php:235
+msgid "Next Month"
+msgstr "Volgende maand"
+
+#: includes/calendars/views/default-calendar-grid.php:204
+msgid "Previous Month"
+msgstr "Vorige maand"
+
+#: includes/calendars/default-calendar.php:111
+msgid "Default"
+msgstr "Standaardwaarde"
+
+#: includes/calendars/admin/default-calendar-admin.php:358
+msgid "Days with Events"
+msgstr "Dagen met evenementen"
+
+#: includes/calendars/admin/default-calendar-admin.php:330
+msgid "Dark"
+msgstr "Donker"
+
+#: includes/calendars/admin/default-calendar-admin.php:329
+msgid "Light"
+msgstr "Eenvoudig"
+
+#: includes/calendars/admin/default-calendar-admin.php:327
+msgid "Choose a calendar theme to match your site theme."
+msgstr "Kies een agenda-thema welke past bij je website."
+
+#: includes/calendars/admin/default-calendar-admin.php:315
+msgid "Theme"
+msgstr "Theme"
+
+#: includes/calendars/admin/default-calendar-admin.php:272
+msgid "Expand Multi-day Events"
+msgstr "Uitbreiden van meerdaagse evenementen"
+
+#: includes/calendars/admin/default-calendar-admin.php:258
+msgid "Limit the number of initial visible events on each day to a set maximum."
+msgstr "Stel een maximum in ten aanzien van het aantal zichtbare evenementen op een dag."
+
+#: includes/calendars/admin/default-calendar-admin.php:231
+msgid "Limit Visible Events"
+msgstr "Beperk zichtbare evenementen"
+
+#: includes/calendars/admin/default-calendar-admin.php:223
+msgid "Make an events list more compact by grouping together events from different days in a single list."
+msgstr "Maak een evenementenlijst compacter door evenementen van verschillende dagen samen te voegen in een enkele lijst."
+
+#: includes/calendars/admin/default-calendar-admin.php:213
+msgid "Compact List"
+msgstr "Compacte lijst"
+
+#: includes/calendars/admin/default-calendar-admin.php:205
+msgid "You can use this to hide the month header for this calendar."
+msgstr "Je kunt deze optie gebruiken om de beschrijving van de maand te verbergen in deze agenda."
+
+#: includes/calendars/admin/default-calendar-admin.php:195
+msgid "Hide Header"
+msgstr "Verberg header"
+
+#: includes/calendars/admin/default-calendar-admin.php:187
+msgid "Event(s)"
+msgstr "Evenement(en)"
+
+#: includes/calendars/admin/default-calendar-admin.php:184
+msgid "Month(s)"
+msgstr "Maand(en)"
+
+#: includes/calendars/admin/default-calendar-admin.php:178
+msgid "Range of events to show on each calendar page."
+msgstr "Reeks van evenementen welke op elke agendapagina weergegeven dienen te worden."
+
+#: includes/calendars/admin/default-calendar-admin.php:151
+msgid "Span"
+msgstr "Bereik"
+
+#: includes/calendars/admin/default-calendar-admin.php:137
+msgid "Shorten event titles in calendar grid to a specified length in characters."
+msgstr "Verkort evenement titels in de agenda-grid tot een specifieke lengte in karakters."
+
+#: includes/calendars/admin/default-calendar-admin.php:113
+msgid "Trim Event Titles"
+msgstr "Kort evenement titels af"
+
+#: includes/calendars/admin/default-calendar-admin.php:105
+msgid "Hover"
+msgstr "Hover"
+
+#: includes/calendars/admin/default-calendar-admin.php:104
+msgid "Click"
+msgstr "Klik"
+
+#: includes/calendars/admin/default-calendar-admin.php:100
+msgid "Open event bubbles in calendar grid by clicking or hovering on event titles. On mobile devices it will always default to tapping."
+msgstr "Open evenement omschrijvingen binnen de agenda-grid door op evenement titels te klikken of hier over te zweven met de muis. Op mobiele apparatuur is tikken de standaard."
+
+#: includes/calendars/admin/default-calendar-admin.php:89
+msgid "Event Bubbles"
+msgstr "Evenement omschrijvingen"
+
+#: includes/calendars/admin/default-calendar-admin.php:84
+msgid "Default Calendar"
+msgstr "Standaard agenda"
+
+#: includes/admin/welcome.php:310
+msgid "View %s"
+msgstr "%s tonen"
+
+#: includes/admin/welcome.php:263
+msgid "Click here to help translate"
+msgstr "Klik hier om te helpen met het vertalen"
+
+#: includes/admin/welcome.php:260
+msgid "Simple Calendar has been kindly translated into several other languages by contributors from all over the world."
+msgstr "Simple Calendar is in verschillende talen vertaald door vele vrijwilligers verspreid over de hele wereld."
+
+#: includes/admin/welcome.php:235
+msgid "Simple Calendar is created by a worldwide team of developers. If you'd like to contribute please visit our <a href='%s' target='_blank'>GitHub repo</a>."
+msgstr "Simple Calendar is gemaakt door een wereldwijd team van ontwikkelaars. Als je mee wilt werken bezoek dan onze <a href='%s' target='_blank'>GitHub repo</a>."
+
+#: includes/admin/welcome.php:198
+msgid "Mobile responsive and widget ready."
+msgstr "Mobiel geschikt en met widgets."
+
+#: includes/admin/welcome.php:174
+msgid "Translators"
+msgstr "Vertalers"
+
+#: includes/admin/welcome.php:169
+msgid "Credits"
+msgstr "Erkenning"
+
+#: includes/admin/welcome.php:164
+msgid "What's New"
+msgstr "Wat is nieuw?"
+
+#: includes/admin/welcome.php:141
+msgid "Thanks for installing!"
+msgstr "Bedankt voor het installeren!"
+
+#: includes/admin/welcome.php:139
+msgid "Thanks for updating to the latest version!"
+msgstr "Bedankt voor het opwaarderen naar de laatste versie."
+
+#. translators: %s prints the current version of the plugin.
+#: includes/admin/welcome.php:130
+msgid "Welcome to Simple Calendar %s"
+msgstr "Welkom bij Simple Calendar %s"
+
+#: includes/admin/welcome.php:53
+msgid "Welcome to Simple Calendar"
+msgstr "Welkom bij Simple Calendar"
+
+#: includes/admin/welcome.php:52
+msgid "About Simple Calendar"
+msgstr "Over Simple Calendar"
+
+#: includes/admin/updater.php:359
+msgid "Error"
+msgstr "Fout"
+
+#: includes/admin/updater.php:359
+msgid "You do not have permission to install plugin updates"
+msgstr "Je hebt geen toestemming om plugin updates uit te voeren"
+
+#: includes/admin/updater.php:217
+msgid "There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s\">update now</a>."
+msgstr "Er is een nieuwe versie van %1$s beschikbaar. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">Bekijk versie %3$s details</a> of <a href=\"%4$s\">update nu</a>."
+
+#: includes/admin/updater.php:210
+msgid "There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr "Er is een nieuwe versie van %1$s beschikbaar. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">Bekijk versie %3$s details</a>."
+
+#: includes/admin/post-types.php:346
+msgid "Please add and configure new calendar first."
+msgstr "Voeg eerst een agenda toe en configureer deze"
+
+#: includes/admin/post-types.php:227
+msgid "Copy"
+msgstr "Kopi&euml;ren"
+
+#: includes/admin/post-types.php:190
+msgid "Cache cleared."
+msgstr "Cache leeggemaakt"
+
+#: includes/admin/post-types.php:185 includes/admin/post-types.php:276
+msgid "Clear cache"
+msgstr "Cache leegmaken"
+
+#: includes/admin/post-types.php:143
+msgid "Clone"
+msgstr "Klonen"
+
+#: includes/admin/post-types.php:71
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: includes/admin/metaboxes/settings.php:141 includes/admin/post-types.php:70
+#: includes/post-types.php:88 includes/post-types.php:89
+msgid "Calendar Type"
+msgstr "Agendatype"
+
+#: includes/admin/post-types.php:69
+msgid "Events Source"
+msgstr "Evenementenbron"
+
+#: includes/admin/pages/system-status.php:532
+msgid "Browser"
+msgstr "Browser"
+
+#: includes/admin/pages/system-status.php:527
+msgid "IP Address"
+msgstr "IP-adres"
+
+#: includes/admin/pages/system-status.php:519
+msgid "Platform:"
+msgstr "Platform:"
+
+#: includes/admin/pages/system-status.php:517
+msgid "User Agent:"
+msgstr "User Agent:"
+
+#: includes/admin/pages/system-status.php:515
+msgid "Version:"
+msgstr "Versie:"
+
+#: includes/admin/pages/system-status.php:513
+msgid "Name:"
+msgstr "Naam:"
+
+#: includes/admin/pages/system-status.php:443
+msgid "Server Timezone"
+msgstr "Server Tijdzone"
+
+#: includes/admin/pages/system-status.php:437
+msgid "MySQL Version"
+msgstr "MySQL-versie"
+
+#: includes/admin/pages/system-status.php:431
+msgid "PHP Version"
+msgstr "PHP-Versie"
+
+#: includes/admin/pages/system-status.php:426
+msgid "Web Server"
+msgstr "Webserver"
+
+#: includes/admin/pages/system-status.php:362
+msgid "Server default timezone is %s - it should be UTC"
+msgstr "Server standaard tijdzone is %s - Dit zou UTC moeten zijn."
+
+#: includes/admin/pages/system-status.php:264
+msgid "Parent Theme"
+msgstr "Hoofdthema"
+
+#: includes/admin/pages/system-status.php:258
+msgid "Child Theme"
+msgstr "Child Thema"
+
+#: includes/admin/pages/system-status.php:252
+msgid "Theme Information"
+msgstr "Thema informatie"
+
+#: includes/admin/pages/system-status.php:220
+#: includes/admin/pages/system-status.php:240
+#: includes/admin/pages/system-status.php:314
+msgid "Author"
+msgstr "Auteur:"
+
+#: includes/admin/pages/system-status.php:218
+#: includes/admin/pages/system-status.php:238
+msgid "Name"
+msgstr "Weblink naam"
+
+#: includes/admin/pages/system-status.php:212
+#: includes/admin/pages/system-status.php:305
+msgid "%s is available"
+msgstr "%s is beschikbaar"
+
+#: includes/admin/pages/system-status.php:160
+msgid "Permalinks"
+msgstr "Permalinks"
+
+#: includes/admin/pages/system-status.php:154
+msgid "Multisite"
+msgstr "Multisite"
+
+#: includes/admin/pages/system-status.php:144
+msgid "Locale"
+msgstr "Lokaal"
+
+#: includes/admin/pages/system-status.php:139
+#: includes/admin/pages/system-status.php:222
+#: includes/admin/pages/system-status.php:242
+#: includes/admin/pages/system-status.php:316
+msgid "Version"
+msgstr "Versie"
+
+#: includes/admin/pages/system-status.php:134
+msgid "Site URL"
+msgstr "URL site"
+
+#: includes/admin/pages/system-status.php:129
+msgid "Home URL"
+msgstr "URL home"
+
+#: includes/admin/pages/system-status.php:124
+msgid "Site Name"
+msgstr "Site naam"
+
+#: includes/admin/pages/system-status.php:112
+msgid "%1$s - It is recomendend to set memory to at least 64MB. See: <a href=\"%2$s\" target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr "%1$s - Het is aanbevolen om het geheugen op z'n minst op 64MB in te stellen. Zie: <a href=\"%2$s\" target=\"_blank\">Vergroot aan PHP toegewezen geheugen</a>"
+
+#: includes/admin/pages/system-status.php:101
+#: includes/admin/pages/system-status.php:156
+#: includes/admin/pages/system-status.php:260
+#: includes/admin/pages/system-status.php:379
+#: includes/admin/pages/system-status.php:399
+#: includes/admin/pages/system-status.php:475
+#: includes/admin/pages/system-status.php:485
+#: includes/admin/pages/system-status.php:490
+msgid "No"
+msgstr "Geen"
+
+#: includes/admin/pages/system-status.php:84
+msgid "Client Information"
+msgstr "Klant informatie"
+
+#: includes/admin/pages/system-status.php:80
+msgid "Server Environment"
+msgstr "Serveromgeving"
+
+#: includes/admin/pages/system-status.php:76
+msgid "Active Plugins"
+msgstr "Actieve plugins"
+
+#: includes/admin/pages/system-status.php:72
+msgid "Active Theme"
+msgstr "Thema activeren"
+
+#: includes/admin/pages/system-status.php:68
+msgid "WordPress Installation"
+msgstr "WordPress installatie"
+
+#: includes/admin/pages/system-status.php:57
+msgid "Download System Report"
+msgstr "Download systeemrapport"
+
+#: includes/admin/pages/system-status.php:56
+msgid "You can also download your information as a text file to attach, or simply view it below."
+msgstr "Je kunt deze informatie tevens downloaden en als tekstbestand bijvoegen. Of bekijk deze simpelweg hieronder."
+
+#: includes/admin/pages/system-status.php:54
+msgid "Please copy and paste this information when contacting support:"
+msgstr "Kopieer deze informatie wanneer je contact opneemt met de support afdeling: "
+
+#: includes/admin/pages/system-status.php:33
+msgid "System Report"
+msgstr "Systeemrapport"
+
+#: includes/admin/pages/licenses.php:79
+msgid "Your license keys are used for access to automatic upgrades and premium support."
+msgstr "Je licentie-sleutels zijn van toepassing op automatische upgrades en premium ondersteuning."
+
+#: includes/admin/pages/licenses.php:77
+msgid "Enter your add-on license keys below, making sure to activate each one to ensure they are valid."
+msgstr "Geef hieronder je licentiesleutels op en vergeet deze niet te activeren om er zeker van te zijn dat deze geldig zijn."
+
+#: includes/admin/pages/licenses.php:76
+msgid "Premium Add-on License Keys"
+msgstr "Premium Add-on licentie-sleutels"
+
+#: includes/admin/pages/licenses.php:59
+msgid "Delete your license keys"
+msgstr "Verwijder je licentie-sleutels"
+
+#: includes/admin/pages/licenses.php:58
+msgid "WARNING: Are you sure you want to start over and delete all license keys from the settings?"
+msgstr "WAARSCHUWING: Weet je zeker dat opnieuw wilt beginnen en alle licentie-sleutels uit je instellingen wilt verwijderen?"
+
+#: includes/admin/pages/licenses.php:33
+msgid "Add-on Licenses"
+msgstr "Add-on Licenties"
+
+#: includes/admin/pages/feeds.php:42
+msgid "Event Sources"
+msgstr "Evenementbronnen"
+
+#: includes/admin/pages/calendars.php:140
+msgid "You can choose on which content types to add the ability to attach calendars."
+msgstr "Je kunt per inhoudstype kiezen in hoeverre agenda's kunnen worden toegevoegd. "
+
+#: includes/admin/pages/calendars.php:139
+msgid "Attach Calendars"
+msgstr "Voeg agenda's toe"
+
+#: includes/admin/pages/calendars.php:77
+msgid "General"
+msgstr "Algemeen"
+
+#: includes/admin/pages/advanced.php:98
+msgid "By default your data will be retained in database even after uninstall. Tick this option if you want to delete all your calendar data when uninstalling."
+msgstr "Standaard blijfven je gegevens in de database bewaard, ook na de-installeren. Vink deze optie aan indien je wenst dat alle gegevens verwijderd worden bij het verwijderen van deze plugin."
+
+#: includes/admin/pages/advanced.php:97
+msgid "Erase calendar data"
+msgstr "Verwijder agendagegevens"
+
+#: includes/admin/pages/advanced.php:90
+msgid "Tick this option if you want to wipe this plugin settings from database when uninstalling."
+msgstr "Selecteer deze optie indien je de plugin instellingen uit de database wilt verwijderen bij de-installatie."
+
+#: includes/admin/pages/advanced.php:89
+msgid "Delete settings"
+msgstr "Verwijder instellingen"
+
+#: includes/admin/pages/advanced.php:53
+msgid "Manage your data (plugin settings and saved calendars)."
+msgstr "Beheer je gegevens (plugin instellingen en opgeslagen agenda's)."
+
+#: includes/admin/pages/advanced.php:52
+msgid "Installation"
+msgstr "Installatie"
+
+#: includes/admin/metaboxes/settings.php:862
+msgid "If you add, edit or remove events in your calendar very often, you can set a lower interval to refresh the events displayed. Set a higher interval for best performance."
+msgstr "Als je vaak evenementen toevoegt, bewerkt of verwijdert in je agenda, dan kun je een lagere interval kiezen om de weergegeven evenementen te verversen. Stel een hogere interval in voor de beste prestatie."
+
+#: includes/admin/metaboxes/settings.php:859
+#: includes/calendars/admin/default-calendar-admin.php:185
+msgid "Week(s)"
+msgstr "Weken"
+
+#: includes/admin/metaboxes/settings.php:858
+#: includes/calendars/admin/default-calendar-admin.php:186
+msgid "Day(s)"
+msgstr "Dag(en)"
+
+#: includes/admin/metaboxes/settings.php:857
+msgid "Hour(s)"
+msgstr "Uur"
+
+#: includes/admin/metaboxes/settings.php:856
+msgid "Minute(s)"
+msgstr "Minuut (minuten)"
+
+#: includes/admin/metaboxes/settings.php:844
+msgctxt "Cache maximum interval"
+msgid "Refresh Interval"
+msgstr "Verversingsinterval"
+
+#: includes/admin/metaboxes/settings.php:829
+msgid "Cache"
+msgstr "Cache"
+
+#: includes/admin/metaboxes/settings.php:821
+msgid "Some calendars may use this setting to display the start of the week. It is recommended to keep the site default setting."
+msgstr "Sommige agenda's kunnen deze instelling gebruiken om het begin van de week weer te geven. Het is aanbevolen om de standaard instelling van de website aan te houden."
+
+#: includes/admin/metaboxes/settings.php:791
+msgid "Week Starts On"
+msgstr "Week begint op"
+
+#: includes/admin/metaboxes/settings.php:780
+msgid "Enter a time format using %s values."
+msgstr "Geef een tijdnotatie op middels %s parameters."
+
+#: includes/admin/metaboxes/settings.php:757
+msgid "This option sets how calendars display event times. It is recommended to keep your site default setting."
+msgstr "Met deze optie stel je in hoe agendatijden van evenementen weergegeven worden. Het is aanbevolen om de standaard instelling welke je website gebruikt aan te houden."
+
+#: includes/admin/metaboxes/settings.php:702
+msgid "Used to divide date and time when both are shown."
+msgstr "Word gebruikt om datum en tijd te scheiden wanneer beiden weergegeven worden."
+
+#: includes/admin/metaboxes/settings.php:677
+msgid "Enter a date format using %s values."
+msgstr "Geef een datumnotatie op middels %s parameters."
+
+#: includes/admin/metaboxes/settings.php:654
+msgid "This option sets how calendars display event dates. It is recommended to keep your site default setting."
+msgstr "Deze optie stelt in hoe agenda's de evenementdatum weergeven. Het is aanbevolen om de standaard instelling van je website aan te houden."
+
+#: includes/admin/metaboxes/settings.php:651
+#: includes/admin/metaboxes/settings.php:754
+msgid "Custom (PHP format)"
+msgstr "Aangepast (PHP-format)"
+
+#: includes/admin/metaboxes/settings.php:620
+msgid "Using a different timezone may alter the date and time display of your calendar events. We recommended using the site default timezone."
+msgstr "Wanneer je gebruik maakt van een andere tijdzone kan dit de weergave van datum en tijd van je evenementen veranderen. Het is aanbevolen om de standaard tijdzone van de site aan te houden."
+
+#: includes/admin/metaboxes/settings.php:611
+#: includes/admin/metaboxes/settings.php:649
+#: includes/admin/metaboxes/settings.php:752
+#: includes/admin/metaboxes/settings.php:808
+msgctxt "Use a custom setting"
+msgid "Custom"
+msgstr "Aangepast"
+
+#: includes/admin/metaboxes/settings.php:608
+msgctxt "Use the calendar default setting"
+msgid "Event source default"
+msgstr "Standaard evenementenbron"
+
+#: includes/admin/metaboxes/settings.php:576
+msgid "Date and Time"
+msgstr "Datum en tijd"
+
+#: includes/admin/metaboxes/settings.php:502
+msgid "Some calendars may display a message when no events are found. You can change the default message here."
+msgstr "Sommige agenda's kunnen een bericht weergeven wanneer er geen evenementen gevonden zijn. Je kunt het standaardbericht hier aanpassen."
+
+#: includes/admin/metaboxes/settings.php:493
+msgid "No Events Message"
+msgstr "Bericht als er geen evenementen gepland staan"
+
+#: includes/admin/metaboxes/settings.php:483
+msgid "Remove the navigation arrows and fix the calendar view to its initial state."
+msgstr "Verwijder de navigatiepijlen en herstel de agendaweergave naar zijn oorspronkelijke staat."
+
+#: includes/admin/metaboxes/settings.php:472
+msgid "Static Calendar"
+msgstr "Statische agenda"
+
+#: includes/admin/metaboxes/settings.php:466
+msgid "Miscellaneous"
+msgstr "Overige"
+
+#: includes/admin/metaboxes/settings.php:443
+msgid "Set the date for the latest possible event to show on calendar. There will not be events after this date."
+msgstr "Stel de datum in voor het laatst mogelijke evenement om weer te geven op de agenda. Er zullen geen evenementen weergegeven worden ná deze datum."
+
+#: includes/admin/metaboxes/settings.php:440
+msgid "Year(s) after start date"
+msgstr "Jaren na startdatum"
+
+#: includes/admin/metaboxes/settings.php:438
+msgid "Month(s) after start date"
+msgstr "Maand(en) na startdatum"
+
+#: includes/admin/metaboxes/settings.php:436
+msgid "Weeks(s) after start date"
+msgstr "Weken na startdatum"
+
+#: includes/admin/metaboxes/settings.php:434
+msgid "Day(s) after start date"
+msgstr "Dag(en) na startdatum"
+
+#: includes/admin/metaboxes/settings.php:432
+msgid "Day end of start date"
+msgstr "Dag voor startdatum"
+
+#: includes/admin/metaboxes/settings.php:403
+msgid "Latest Event"
+msgstr "Laatste evenement"
+
+#: includes/admin/metaboxes/settings.php:398
+msgid "Set the date for the earliest possible event to show in calendar. There will not be events before this date."
+msgstr "Stel de datum in voor de eerst mogelijke evenement om weer te geven in de agenda. Er zullen geen evenementen zijn vóór deze datum."
+
+#: includes/admin/metaboxes/settings.php:395
+msgid "Year(s) before start date"
+msgstr "Jaren tot startdatum"
+
+#: includes/admin/metaboxes/settings.php:393
+msgid "Month(s) before start date"
+msgstr "Maand(en) tot startdatum"
+
+#: includes/admin/metaboxes/settings.php:391
+msgid "Week(s) before start date"
+msgstr "Weken tot startdatum"
+
+#: includes/admin/metaboxes/settings.php:389
+msgid "Day(s) before start date"
+msgstr "Dag(en) tot startdatum"
+
+#: includes/admin/metaboxes/settings.php:387
+msgid "Same as start date"
+msgstr "Hetzelfde als de startdatum"
+
+#: includes/admin/metaboxes/settings.php:358
+msgid "Earliest Event"
+msgstr "Eerste evenement"
+
+#: includes/admin/metaboxes/settings.php:353
+msgid "The calendar default opening date. It will automatically adapt based on the chosen calendar type."
+msgstr "De standaard openingsdatum van je agenda. Deze past zich automatisch aan op basis van het gekozen agendatype."
+
+#: includes/admin/metaboxes/settings.php:335
+msgid "Specific date"
+msgstr "Specifieke datum"
+
+#: includes/admin/metaboxes/settings.php:332
+msgid "Other"
+msgstr "Overig"
+
+#: includes/admin/metaboxes/settings.php:330
+msgid "Year(s) after current"
+msgstr "Jaren na vandaag"
+
+#: includes/admin/metaboxes/settings.php:327
+msgid "Year(s) before current"
+msgstr "Jaren tot vandaag"
+
+#: includes/admin/metaboxes/settings.php:325
+msgid "This year"
+msgstr "Dit jaar"
+
+#: includes/admin/metaboxes/settings.php:320
+msgid "Month(s) after current"
+msgstr "Maand(en) na vandaag"
+
+#: includes/admin/metaboxes/settings.php:317
+msgid "Month(s) before current"
+msgstr "Maand(en) tot vandaag"
+
+#: includes/admin/metaboxes/settings.php:314
+msgid "This month"
+msgstr "Deze maand"
+
+#: includes/admin/metaboxes/settings.php:309
+msgid "Week(s) after current"
+msgstr "Weken na vandaag"
+
+#: includes/admin/metaboxes/settings.php:306
+msgid "Week(s) before current"
+msgstr "Weken tot vandaag"
+
+#: includes/admin/metaboxes/settings.php:303
+msgid "This week"
+msgstr "Deze week"
+
+#: includes/admin/metaboxes/settings.php:298
+msgid "Day(s) after today"
+msgstr "Dag(en) na vandaag"
+
+#: includes/admin/metaboxes/settings.php:295
+msgid "Day(s) before today"
+msgstr "Dag(en) tot vandaag"
+
+#: includes/admin/metaboxes/settings.php:292
+msgid "Now"
+msgstr "Nu"
+
+#: includes/admin/metaboxes/settings.php:289
+#: includes/calendars/admin/default-calendar-admin.php:338
+msgid "Today"
+msgstr "vandaag"
+
+#: includes/admin/metaboxes/settings.php:248
+msgid "Calendar Start"
+msgstr "Agenda start"
+
+#: includes/admin/metaboxes/settings.php:242
+msgid "Event Settings"
+msgstr "Evenementen instellingen"
+
+#: includes/admin/metaboxes/settings.php:207
+#: includes/admin/pages/advanced.php:32
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: includes/admin/metaboxes/settings.php:198
+msgid "Appearance"
+msgstr "Opmaak"
+
+#: includes/admin/metaboxes/settings.php:192
+msgid "Events"
+msgstr "Activiteiten"
+
+#: includes/admin/metaboxes/settings.php:165
+msgid "View to display"
+msgstr "Weergave keuze"
+
+#: includes/admin/metaboxes/settings.php:162
+msgid "View"
+msgstr "Bekijken"
+
+#: includes/admin/metaboxes/settings.php:143
+msgid "Calendar to use"
+msgstr "Agenda om te gebruiken"
+
+#: includes/post-types.php:173 includes/post-types.php:201
+#: includes/widgets/calendar.php:125
+msgid "Calendar"
+msgstr "Calender"
+
+#: includes/admin/metaboxes/settings.php:121
+msgctxt "From which calendar source to load events from"
+msgid "Get events from"
+msgstr "Verkrijg evenementen vanuit"
+
+#: includes/admin/metaboxes/settings.php:118
+msgid "Event Source"
+msgstr "Evenementbron"
+
+#: includes/admin/metaboxes/attach-calendar.php:60
+msgid "Before Content"
+msgstr "Voor de inhoud"
+
+#: includes/admin/metaboxes/attach-calendar.php:59
+msgid "After Content"
+msgstr "Na de inhoud"
+
+#: includes/admin/meta-boxes.php:130
+msgid "Attach Calendar"
+msgstr "Koppel agenda"
+
+#: includes/admin/meta-boxes.php:118
+msgid "Calendar Shortcode"
+msgstr "Agenda shortcode"
+
+#: includes/admin/meta-boxes.php:83
+msgid "Calendar Settings"
+msgstr "Agenda instellingen"
+
+#: includes/admin/menus.php:217
+msgid "Thanks for using Simple Calendar!"
+msgstr "Bedankt voor het gebruik maken van Simple Calendar."
+
+#: includes/admin/menus.php:205
+msgid "Thanks :)"
+msgstr "Bedankt :)"
+
+#: includes/admin/menus.php:204
+msgid "If you like <strong>Simple Calendar</strong> please leave us a %s&#9733;&#9733;&#9733;&#9733;&#9733; rating on WordPress.org%s. A huge thank you in advance!"
+msgstr "Als je <strong>Simple Calendar</strong> leuk vindt, geef ons een %s&#9733;&#9733;&#9733;&#9733;&#9733; waardering op WordPress.org%s. Bij voorbaat dank."
+
+#: includes/admin/menus.php:122 includes/admin/pages/calendars.php:42
+#: includes/admin/welcome.php:104 includes/post-types.php:172
+msgid "Calendars"
+msgstr "Agenda's"
+
+#: includes/admin/menus.php:93 includes/admin/menus.php:94
+msgid "Tools"
+msgstr "Hulpmiddelen"
+
+#: includes/admin/menus.php:81 includes/admin/menus.php:82
+#: includes/admin/menus.php:146 includes/admin/pages/add-ons.php:31
+#: includes/admin/welcome.php:110
+msgid "Add-ons"
+msgstr "Add-ons"
+
+#: includes/admin/menus.php:69 includes/admin/menus.php:70
+#: includes/admin/menus.php:121 includes/admin/welcome.php:107
+msgid "Settings"
+msgstr "Configuratie"
+
+#: includes/admin/fields/license.php:86
+msgid "(active)"
+msgstr "(actief)"
+
+#: includes/admin/fields/license.php:81
+msgid "Activate"
+msgstr "Aktiveren"
+
+#: includes/admin/fields/license.php:77
+msgid "Deactivate"
+msgstr "Deactiveren"
+
+#: includes/admin/fields/datetime-format.php:364
+msgctxt "A character to separate two elements"
+msgid "Divider"
+msgstr "Scheiding"
+
+#: includes/admin/fields/datetime-format.php:341
+msgid "Meridiem"
+msgstr "Aanduiding"
+
+#: includes/admin/fields/datetime-format.php:319
+msgid "Minutes"
+msgstr "Мinuten"
+
+#: includes/admin/fields/datetime-format.php:294
+msgid "Hours"
+msgstr "Uren"
+
+#: includes/admin/fields/datetime-format.php:271
+msgid "Year"
+msgstr "Jaar"
+
+#: includes/admin/fields/datetime-format.php:246
+msgid "Month"
+msgstr "Мaand"
+
+#: includes/admin/fields/datetime-format.php:223
+msgid "Day"
+msgstr "Dag"
+
+#: includes/admin/fields/datetime-format.php:200
+msgid "Weekday"
+msgstr "Dag van de week"
+
+#: includes/admin/fields/datetime-format.php:98
+#: includes/admin/metaboxes/settings.php:657
+#: includes/admin/metaboxes/settings.php:680
+#: includes/admin/metaboxes/settings.php:760
+#: includes/admin/metaboxes/settings.php:783
+msgid "Preview"
+msgstr "Voorbeschouwing"
+
+#: includes/admin/ajax.php:147
+msgid "License key is invalid."
+msgstr "Licentiesleutel in ongeldig."
+
+#: includes/admin/ajax.php:132
+msgid "There was an error processing your request: %s"
+msgstr "Er ging iets fout tijdens het verwerken van je verzoek: %s"
+
+#: includes/admin/ajax.php:101 includes/admin/ajax.php:168
+msgid "An error occurred: %s"
+msgstr "Er heeft een fout plaats gevonden: %s"
+
+#: includes/admin/ajax.php:96
+msgid "Add-on unspecified or invalid action."
+msgstr "Add-on niet gespecificeerde of foutieve actie."
+
+#: includes/widgets/calendar.php:132
+msgid "Title:"
+msgstr "Titel:"
+
+#: includes/admin/welcome.php:113
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: includes/admin/metaboxes/settings.php:734
+msgid "Time Format"
+msgstr "Tijdsnotatie"
+
+#: includes/admin/metaboxes/settings.php:631
+msgid "Date Format"
+msgstr "Datumnotatie"
+
+#: includes/admin/fields/checkbox.php:90
+#: includes/admin/pages/system-status.php:103
+#: includes/admin/pages/system-status.php:106
+#: includes/admin/pages/system-status.php:156
+#: includes/admin/pages/system-status.php:260
+#: includes/admin/pages/system-status.php:376
+#: includes/admin/pages/system-status.php:396
+#: includes/admin/pages/system-status.php:450
+#: includes/admin/pages/system-status.php:475
+#: includes/admin/pages/system-status.php:485
+#: includes/admin/pages/system-status.php:490
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/feeds/admin/google-admin.php:189
+msgid "Search Query"
+msgstr "Zoekopdracht"
+
+#: includes/admin/metaboxes/settings.php:605
+#: includes/admin/metaboxes/settings.php:647
+#: includes/admin/metaboxes/settings.php:750
+#: includes/admin/metaboxes/settings.php:807
+msgctxt "Use this site default setting"
+msgid "Site default"
+msgstr "Site standaard"
+
+#: includes/admin/metaboxes/settings.php:582
+#: includes/admin/pages/system-status.php:149
+msgid "Timezone"
+msgstr "Tijdzone"
+
+#: includes/feeds/google.php:98
+msgid "Google Calendar"
+msgstr "Google Calendar"
+
+#: includes/admin/metaboxes/settings.php:688
+msgid "Separator"
+msgstr "Scheidingsteken"
+
+#: includes/feeds/admin/google-admin.php:96
+msgid "Google API Key"
+msgstr "Google API Sleutel"
+
+#: includes/calendars/default-calendar.php:114
+#: includes/calendars/views/default-calendar-list.php:112
+msgid "List"
+msgstr "Lijst"
+
+#: includes/calendars/default-calendar.php:113
+#: includes/calendars/views/default-calendar-grid.php:92
+msgid "Grid"
+msgstr "Raster"
+
+#: includes/post-types.php:177
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: includes/calendars/views/default-calendar-list.php:205
+msgid "Previous"
+msgstr "Vorige"
+
+#: includes/calendars/views/default-calendar-list.php:220
+msgid "Next"
+msgstr "Volgende"
+
+#: includes/admin/post-types.php:144
+msgid "Clear Cache"
+msgstr "Cachegeheugen verwijderen"
+
+#: includes/admin/post-types.php:345
+msgid "Could not find any calendars to add to this post."
+msgstr "Er konden geen agenda's gevonden worden om toe te voegen aan dit bericht."
+
+#: includes/admin/post-types.php:343
+msgid "Insert Calendar"
+msgstr "Voeg agenda in"
+
+#: includes/admin/post-types.php:329
+msgid "Add a calendar to your post."
+msgstr "Voeg een agenda toe aan je bericht."
+
+#: includes/admin/post-types.php:306 includes/admin/post-types.php:328
+msgid "Add Calendar"
+msgstr "Voeg agenda toe"

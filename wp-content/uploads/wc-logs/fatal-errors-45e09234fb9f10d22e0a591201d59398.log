@@ -1,0 +1,48 @@
+2017-12-04T09:26:34+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_error() in /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/db.class.php:29
+Stack trace:
+#0 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/db.class.php(127): UniteDBRev->checkForErrors('fetch')
+#1 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/revslider_params.class.php(42): UniteDBRev->fetch('wp_revslider_se...')
+#2 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/revslider_operations.class.php(1242): RevSliderParams->getFieldFromDB('general')
+#3 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/settings/general_settings.php(41): RevOperations::getGeneralSettingsValues()
+#4 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/base_admin.class.php(344): require('/
+
+2017-12-04T09:26:34+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_error() in /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/db.class.php:29
+Stack trace:
+#0 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/db.class.php(127): UniteDBRev->checkForErrors('fetch')
+#1 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/revslider_params.class.php(42): UniteDBRev->fetch('wp_revslider_se...')
+#2 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/revslider_operations.class.php(1242): RevSliderParams->getFieldFromDB('general')
+#3 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/settings/general_settings.php(41): RevOperations::getGeneralSettingsValues()
+#4 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/base_admin.class.php(344): require('/
+
+2017-12-04T09:26:34+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_error() in /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/db.class.php:29
+Stack trace:
+#0 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/db.class.php(127): UniteDBRev->checkForErrors('fetch')
+#1 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/revslider_params.class.php(42): UniteDBRev->fetch('wp_revslider_se...')
+#2 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/revslider_operations.class.php(1242): RevSliderParams->getFieldFromDB('general')
+#3 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/settings/general_settings.php(41): RevOperations::getGeneralSettingsValues()
+#4 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/base_admin.class.php(344): require('/
+
+2017-12-04T09:28:56+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_error() in /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/db.class.php:29
+Stack trace:
+#0 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/db.class.php(127): UniteDBRev->checkForErrors('fetch')
+#1 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/revslider_params.class.php(42): UniteDBRev->fetch('wp_revslider_se...')
+#2 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/revslider_operations.class.php(1242): RevSliderParams->getFieldFromDB('general')
+#3 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/settings/general_settings.php(41): RevOperations::getGeneralSettingsValues()
+#4 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/base_admin.class.php(344): require('/
+
+2017-12-04T09:28:57+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_error() in /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/db.class.php:29
+Stack trace:
+#0 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/db.class.php(127): UniteDBRev->checkForErrors('fetch')
+#1 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/revslider_params.class.php(42): UniteDBRev->fetch('wp_revslider_se...')
+#2 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/revslider_operations.class.php(1242): RevSliderParams->getFieldFromDB('general')
+#3 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/settings/general_settings.php(41): RevOperations::getGeneralSettingsValues()
+#4 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/base_admin.class.php(344): require('/
+
+2017-12-04T09:28:57+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_error() in /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/db.class.php:29
+Stack trace:
+#0 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/db.class.php(127): UniteDBRev->checkForErrors('fetch')
+#1 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/revslider_params.class.php(42): UniteDBRev->fetch('wp_revslider_se...')
+#2 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/revslider_operations.class.php(1242): RevSliderParams->getFieldFromDB('general')
+#3 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/settings/general_settings.php(41): RevOperations::getGeneralSettingsValues()
+#4 /var/www/vhosts/dimitriosvergados.eu/httpdocs/girasoleshop/wp-content/plugins/revslider/inc_php/framework/base_admin.class.php(344): require('/
+
